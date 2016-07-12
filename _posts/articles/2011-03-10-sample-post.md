@@ -35,13 +35,12 @@ As software engineers, we use our knowledge of computers and computing to help s
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .pull-right}
 
-*Therefore, it is essential that we first understand the nature of the problem*. In particular, we must be very careful not to impose computing machinery or techniques on every problem that comes our way. 53 = 125. Water is H<sub>2</sub>O. We must solve, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+*Therefore, it is essential that we first understand the nature of the problem*. In particular, we must be very careful not to impose computing machinery or techniques on every problem that comes our way. We must solve the problem first. Then, if need be, we can use <cite>technology</cite> as a <u>tool</u> to implement our solution. 
+HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. 
 
 ### Blockquotes
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+> We assume that our analysis has shown that some kind of computer system is necessary or desirable to solve a particular problem at hand.
 
 ## List Types
 
