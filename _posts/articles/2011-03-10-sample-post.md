@@ -35,7 +35,7 @@ As software engineers, we use our knowledge of computers and computing to help s
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .pull-right}
 
-*Therefore, it is essential that we first understand the nature of the problem*. In particular, we must be very careful not to impose computing machinery or techniques on every problem that comes our way. We must solve the problem first. Then, if need be, we can use <cite>technology</cite> as a <u>tool</u> to implement our solution. 
+*Therefore, it is essential that we first understand the nature of the problem.* In particular, we must be very careful not to impose computing machinery or techniques on every problem that comes our way. We must solve the problem first. Then, if need be, we can use <cite>technology</cite> as a <u>tool</u> to implement our solution. 
 HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. 
 
 ### Blockquotes
