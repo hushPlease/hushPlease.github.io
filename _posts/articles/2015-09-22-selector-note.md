@@ -82,7 +82,7 @@ image:
 * nth-child: 对指定序号的子元素设置样式(正数)
 `li:nth-child(2) {background-color: red;} -- 第2个li元素的样式`
 * nth-last-child: 对指定序号的子元素设置样式(倒数)
-`eg: li:nth-last-child(2) {background-color: red;} -- 倒数第2个li元素的样式`
+`li:nth-last-child(2) {background-color: red;} -- 倒数第2个li元素的样式`
 
 对所有*第奇数个子元素*或*第偶数个子元素*指定样式
 
