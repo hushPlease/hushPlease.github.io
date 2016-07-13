@@ -19,7 +19,7 @@ image:
 
 ## 属性选择器：声明属性与属性值
 声明方法：[att = val]（att代表属性，val代表属性值）
-[id = inst] {background-color: #66ccff;}
+`[id = inst] {background-color: #66ccff;}`
 
 * [att *= val]属性选择器
 如果元素用att表示的属性的属性值中包含使用val指定的字符，则该元素使用此样式
