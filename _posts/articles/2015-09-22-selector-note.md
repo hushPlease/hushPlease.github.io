@@ -99,7 +99,8 @@ image:
 * nth-child(even): 所有正数下来第奇数个子元素
 * nth-last-child(odd): 所有倒数上去第偶数个子元素
 * nth-last-child(even): 所有倒数上去第奇数个子元素
-**注意，nth-child选择器在计算子元素是第奇数个元素还是第偶数个元素时，是连同父元素中的所有子元素一起计算的。**
+
+> 注意，nth-child选择器在计算子元素是第奇数个元素还是第偶数个元素时，是连同父元素中的所有子元素一起计算的
 
 ### 选择器：nth-of-type, nth-last-of-type
 
