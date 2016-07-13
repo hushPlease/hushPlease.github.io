@@ -19,26 +19,17 @@ image:
 
 ## 属性选择器：声明属性与属性值
 声明方法：[att = val]（att代表属性，val代表属性值）
-
-    [id = inst] {background-color: #66ccff;}
+[id = inst] {background-color: #66ccff;}
 
 * [att *= val]属性选择器
-
 如果元素用att表示的属性的属性值中包含使用val指定的字符，则该元素使用此样式
-    
-    [id *= inst] {background-attachment: fixed;}
-    
+`[id *= inst] {background-attachment: fixed;}`
 * [att ^= val]属性选择器
-
 如果元素用att表示的属性的属性值的开头字符为用val所指定的字符，则该元素使用此样式
-    
-    [id ^= inst] {background-image: url();}
-
+`[id ^= inst] {background-image: url();}`
 * [att $= val]属性选择器
-
 如果元素用att表示的属性的属性值的结尾字符为用val所指定的字符，则该元素使用此样式
-    
-    [id $= inst] {background-repeat: repeat;}
+`[id $= inst] {background-repeat: repeat;}`
 
 ## 结构性伪类选择器
 
@@ -69,29 +60,29 @@ image:
 ### 四个最基本的结构性伪类选择器：root, not, empty, target
 
 * root选择器：将样式绑定到页面的根元素中
-` :root {background-color: forestgreen;} body {background-color: pink;} `
+`:root {background-color: forestgreen;} body {background-color: pink;}`
 * not选择器：对某个结构元素使用样式，但是想排除这个结构元素下面的子结构元素让其不使用该样式时选用
-` body *:not(p) {background-image:url(yurisa.jpeg);} `
+`body *:not(p) {background-image:url(yurisa.jpeg);}`
 * empty选择器：指定当元素中内容为空白时使用的样式
-` :empty {background-color: limegreen;} `
+`:empty {background-color: limegreen;}`
 * target选择器：对页面中某target元素指定样式，该样式在用户点击超链接并跳转后起作用
-` :target {background-color: red;} `
+`:target {background-color: red;}`
   
 ### 选择器：first-child, last-child, nth-child, nth-last-child
 
 单独指定*第一个子元素*、*最后一个子元素*的样式
 
 * first-child: 对一个父元素中的第一个子元素指定样式
-` li:first-child {background-color: red;} `
+`li:first-child {background-color: red;}`
 * last-child: 对一个父元素中的最后一个子元素指定样式
-` li:last-child {background-color: red;} `
+`li:last-child {background-color: red;}`
 
 对*指定序号*的子元素使用样式
 
 * nth-child: 对指定序号的子元素设置样式(正数)
-` li:nth-child(2) {background-color: red;} -- 第2个li元素的样式 `
+`li:nth-child(2) {background-color: red;} -- 第2个li元素的样式`
 * nth-last-child: 对指定序号的子元素设置样式(倒数)
-` eg: li:nth-last-child(2) {background-color: red;} -- 倒数第2个li元素的样式 `
+`eg: li:nth-last-child(2) {background-color: red;} -- 倒数第2个li元素的样式`
 
 对所有*第奇数个子元素*或*第偶数个子元素*指定样式
 
@@ -126,7 +117,7 @@ nth-child(n)，把参数n改成可循环的an+b的形式，a表示每次循环�
         nth-last-child(2n+2) {样式}    // ……第偶数个子元素
 
 ### only-child选择器：当某个父元素中只有一个子元素时使用的样式
-` li:only-child {background-color: red;} `
+`li:only-child {background-color: red;}`
   
 ## UI元素状态伪类选择器
 在CSS3中共有17种UI元素状态伪类选择器，它们的共同特征是：**指定的样式只有当元素处于某种状态下才起作用，在默认状态下不起作用**
