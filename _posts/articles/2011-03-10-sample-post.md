@@ -40,7 +40,7 @@ HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools.
 
 ### Blockquotes
 
-> We assume that our analysis has shown that some kind of computer system is necessary or desirable to solve a particular problem at hand.
+> Software engineering is the application of engineering to the design, development, implementation, testing and maintenance of software in a systematic method.
 
 ## List Types
 
