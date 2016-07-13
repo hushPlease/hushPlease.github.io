@@ -28,7 +28,7 @@ Below is just about everything you'll need to write your markdown-articles. Chec
 
 ###### Heading 6
 
-### What is software engineering?
+### What is [software engineering](https://en.wikipedia.org/wiki/Software_engineering)?
 
 As software engineers, we use our knowledge of computers and computing to help solve problems. **Often the problem** with which we are dealing is related to a computer or an existing computer system, but sometimes the difficulties underlying the problem have nothing to do with computers.
 
