@@ -6,9 +6,9 @@ categories: blog
 excerpt: "To grasp requirements more specifically."
 tags: [Software Engineering]
 image:
-  feature: bg\16.jpg
+  feature: bg\14.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: http://wegraphics.net/
 date: 2016-07-13T15:39:55-04:00
 modified: 2016-07-14T14:19:19-04:00
 ---
