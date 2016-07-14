@@ -3,7 +3,10 @@ layout: post
 title: "MathJax Example"
 modified:
 categories: articles
-excerpt:
+excerpt: "An example of MathJax usage."
+author: hush_please
+share: true;
+comments: true;
 tags: [MathJax]
 image:
   feature:
