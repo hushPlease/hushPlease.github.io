@@ -7,6 +7,7 @@ tags: [Software Engineering]
 author: hush_please
 date: 2016-07-14T10:53:50-04:00
 modified: 2016-07-14T10:54:25-04:00
+
 ---
 
 1. It is essential that the requirements definition and specification documents describe the problem, leaving solution selection to the designers. The best way of ensuring that you do not stray into the solution space is to describe requirements and specifications in terms of environmental phenomena.
