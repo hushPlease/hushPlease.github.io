@@ -3,7 +3,7 @@ layout: post
 title: "Requirements Specification"
 modified:
 categories: blog
-excerpt:
+excerpt: "To grasp requirements more specifically."
 tags: [Software Engineering]
 image:
   feature:
