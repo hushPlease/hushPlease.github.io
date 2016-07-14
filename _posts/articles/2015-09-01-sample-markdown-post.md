@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post
 excerpt: "Just about everything you'll need to style in the markdown-article: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2016-07-11T14:17:25-04:00
+modified: 2016-07-13T14:17:25-04:00
 categories: articles
 tags: [Markdown]
 author: hush_please
