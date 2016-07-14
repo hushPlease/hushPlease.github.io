@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Requirements Specification"
-excerpt: "To grasp requirements accurately."
+modified:
 categories: blog
+excerpt:
 tags: [Software Engineering]
-author: hush_please
-date: 2016-07-14T10:53:50-04:00
-modified: 2016-07-14T10:54:25-04:00
-
+image:
+  feature:
+date: 2016-07-13T15:39:55-04:00
+modified: 2016-07-14T14:19:19-04:00
 ---
+
 
 1. It is essential that the requirements definition and specification documents describe the problem, leaving solution selection to the designers. The best way of ensuring that you do not stray into the solution space is to describe requirements and specifications in terms of environmental phenomena.
 2. There are a variety of sources and means for eliciting requirements. There are both functional and quality requirements to keep in mind. The functional requirements explain what the system will do, and the quality requirements constrain solutions in terms of safety, reliability, budget, schedule, and so on.
