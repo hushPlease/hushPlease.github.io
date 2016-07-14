@@ -1,5 +1,5 @@
 ---
-layout: post;
+layout: post
 title: "Requirements Specification"
 excerpt: "To grasp requirements accurately."
 categories: blog
