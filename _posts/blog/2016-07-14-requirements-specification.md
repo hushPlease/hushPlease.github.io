@@ -6,7 +6,7 @@ categories: blog
 excerpt: "To grasp requirements more specifically."
 tags: [Software Engineering]
 image:
-  feature: wg_blurred_backgrounds_1.jpg
+  feature: bg\1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 date: 2016-07-13T15:39:55-04:00
