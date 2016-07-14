@@ -5,8 +5,8 @@ modified:
 categories: articles
 excerpt: "An example of MathJax usage."
 author: hush_please
-share: true;
-comments: true;
+share: true
+comments: true
 tags: [MathJax]
 image:
   feature:
