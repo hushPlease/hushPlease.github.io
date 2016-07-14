@@ -9,7 +9,9 @@ share: true
 comments: true
 tags: [MathJax]
 image:
-  feature:
+  feature: bg\1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/
 date: 2016-07-13T10:30:50-04:00
 ---
 
