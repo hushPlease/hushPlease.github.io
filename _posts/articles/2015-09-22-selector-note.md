@@ -9,9 +9,9 @@ comments: true
 share: true
 modified: 2016-07-12T14:18:57-04:00
 image:
-  feature: so-simple-sample-image-7.jpg
+  feature: bg\2.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: http://wegraphics.net/
 
 ---
 
