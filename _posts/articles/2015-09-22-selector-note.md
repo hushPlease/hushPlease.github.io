@@ -33,9 +33,11 @@ image:
 
 ## 结构性伪类选择器
 
-首先了解两个概念：*伪类选择器* 与 *伪元素选择器*
+首先了解两个概念：**伪类选择器** 与 **伪元素选择器**
 
-### 伪类选择器：CSS中已经定义好的选择器，不能随便取名
+### 伪类选择器
+CSS中已经定义好的选择器，不能随便取名
+
 常用4种锚元素(a)的选择器分别为：
 
         a:link {color: red; text-decoration: underline;}
@@ -46,7 +48,7 @@ image:
 ### 伪元素选择器
 
 并不是针对真正的元素使用的选择器，而是针对CSS中已经定义好的伪元素使用的选择器
-主要有如下*四种*伪元素选择器：
+主要有如下**四种**伪元素选择器：
 
 * first-line伪元素选择器：用于向某个元素中的第一行文字使用指定样式
 `p:first-line {font-style: italic;}`
@@ -70,21 +72,21 @@ image:
   
 ### 选择器：first-child, last-child, nth-child, nth-last-child
 
-单独指定*第一个子元素*、*最后一个子元素*的样式
+单独指定**第一个子元素**、**最后一个子元素**的样式
 
 * first-child: 对一个父元素中的第一个子元素指定样式
 `li:first-child {background-color: red;}`
 * last-child: 对一个父元素中的最后一个子元素指定样式
 `li:last-child {background-color: red;}`
 
-对*指定序号*的子元素使用样式
+对**指定序号**的子元素使用样式
 
 * nth-child: 对指定序号的子元素设置样式(正数)
 `li:nth-child(2) {background-color: red;} -- 第2个li元素的样式`
 * nth-last-child: 对指定序号的子元素设置样式(倒数)
 `li:nth-last-child(2) {background-color: red;} -- 倒数第2个li元素的样式`
 
-对所有*第奇数个子元素*或*第偶数个子元素*指定样式
+对所有**第奇数个子元素**或**第偶数个子元素**指定样式
 
 * nth-child(odd): 所有正数下来第偶数个子元素
 * nth-child(even): 所有正数下来第奇数个子元素
@@ -95,7 +97,7 @@ image:
 
 ### 选择器：nth-of-type, nth-last-of-type
 
-使用这两个选择器时，CSS3在计算子元素是第奇数个子元素还是第偶数个元素时，就会*只计算同类型元素*
+使用这两个选择器时，CSS3在计算子元素是第奇数个子元素还是第偶数个元素时，就会**只计算同类型元素**
 
         td:nth-of-type(odd) {background-color: yellow;}
         td: nth-of-type(even) {background-color: blue;}
