@@ -13,12 +13,12 @@ date: 2016-07-16T15:53:12-04:00
 modified: 2016-07-16T15:53:12-04:00
 ---
 
-1、The guests at the party danced with abandon. 聚会上的客人们尽情的跳舞。
-2、Her seat afforded her a beautiful view of the stage. 她的座位让她可以清楚地看到整个舞台。
-3、The new pill will be used alongside existing medicines. 那种新药将于现有的药物一起使用。
-alternative n. 可选事物；取舍，抉择
-appropriate vt. 拨款
-asset n. 优势；重要的品质
+1、The guests at the party danced with abandon. 聚会上的客人们尽情的跳舞。    
+2、Her seat afforded her a beautiful view of the stage. 她的座位让她可以清楚地看到整个舞台。   
+3、The new pill will be used alongside existing medicines. 那种新药将于现有的药物一起使用。  
+alternative n. 可选事物；取舍，抉择   
+appropriate vt. 拨款  
+asset n. 优势；重要的品质   
 4、His eyes are his best asset. 他的双眼便是他最大的资本。
 assume vt. 承担（责任）；采用（形式或姿势）
 5、The new President assumes office at midnight tonight. 新任总统在今天午夜就任。
