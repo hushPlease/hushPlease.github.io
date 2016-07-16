@@ -4,7 +4,7 @@ title: "Extrapolation Update ver."
 modified:
 categories: blog
 excerpt: "The accumulation of learning English every day."
-tags: [Translation]
+tags: [Notes]
 image:
   feature: bg\3.jpg
   credit: WeGraphics
