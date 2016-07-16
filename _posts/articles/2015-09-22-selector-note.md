@@ -119,7 +119,8 @@ nth-child(n)，把参数n改成可循环的an+b的形式，a表示每次循环�
         nth-last-child(2n+1) {样式}    // 所有倒数上去的第奇数个子元素
         nth-last-child(2n+2) {样式}    // ……第偶数个子元素
 
-### only-child选择器：当某个父元素中只有一个子元素时使用的样式
+### only-child选择器
+当某个父元素中只有一个子元素时使用的样式
 `li:only-child {background-color: red;}`
   
 ## UI元素状态伪类选择器
