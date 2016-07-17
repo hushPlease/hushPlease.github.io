@@ -11,6 +11,8 @@ image:
   creditlink: http://wegraphics.net/
 date: 2016-06-01T14:36:51-04:00
 modified: 2016-07-17T21:06:23-04:00
+share: true
+comments: true
 ---
 
 视图→冻结窗格→冻结拆分窗格
