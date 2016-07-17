@@ -20,7 +20,7 @@ alternative n. 可选事物；取舍，抉择
 appropriate vt. 拨款  
 asset n. 优势；重要的品质   
 4、His eyes are his best asset. 他的双眼便是他最大的资本。    
-assume vt. 承担（责任）；采用（形式或姿势） 
+assume vt. 承担（责任）；采用（形式或姿势）     
 5、The new President assumes office at midnight tonight. 新任总统在今天午夜就任。    
 6、After passing his exams, he will be admitted to the bar. 通过考试以后，他便可以获得律师从业资格。     
 7、The hiking trip up the mountain will be long, so please don't carry more than the bare necessities. 徒步爬山的旅程会很长，所以除生活必需品外，请不要带其他东西。    
@@ -105,7 +105,7 @@ stock a. 普通的
 68、Andrew Wyeth is famous for his realistic and thoughtful paintings of people and places. 安德鲁·怀斯以其极富思想性的写实主义肖像画和风景画而著名。    
 69、When heavy rains threatened, we canceled our picnic. 马上就要下暴雨了，我们取消了野餐。   
 70、There was utter silence in the classroom. 教室里异常安静。   
-71、Language is a vehicle of great thoughts. 语言是伟大思想的媒介。 
+71、Language is a vehicle of great thoughts. 语言是伟大思想的媒介。     
 72、Pakistan waged a war with India in 1965. 1965年，巴基斯坦发动了对印度的战争。
 
 73、She had her appendix out last summer. 去年夏天，她做了阑尾切除手术。    
