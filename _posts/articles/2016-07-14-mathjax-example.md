@@ -7,7 +7,7 @@ excerpt: "An example of MathJax usage."
 author: hush_please
 share: true
 comments: true
-tags: [MathJax]
+tags: [Markdown]
 image:
   feature: bg\1.jpg
   credit: WeGraphics
