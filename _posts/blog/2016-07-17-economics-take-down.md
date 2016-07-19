@@ -11,6 +11,8 @@ image:
   creditlink: http://wegraphics.net/
 date: 2016-03-22T14:36:51-04:00
 modified: 2016-07-17T14:32:59-04:00
+comments: true
+share: true
 ---
 
 1776年 亚当斯密 《国民财富的性质和原因的研究》——《国富论》 
