@@ -22,4 +22,11 @@ comments: true
 5、He acted as a buffer between the quarrelling children. 他调解了两个孩子的争吵。   
 6、The marriage of our son to their daughter cemented the friendship of our two families. 我们的儿子和他们的女儿的婚姻加深了我们两家人的情谊。     
 7、The scientists compiled a great amount of data to help prove their theory. 科学家收集了大量的数据来帮助证明他们的理论。     
-8、Two countries acted in concert with each other to stop a war. 两个国家共同行动，制止了一场战争。
+8、Two countries acted in concert with each other to stop a war. 两个国家共同行动，制止了一场战争。   
+9、His thoughts were couched in beautiful language. 他用优美的语言表达了自己的想法。     
+10、After the death of the old king, the princess was crowned in London. 老国王死后，女王在伦敦加冕。  
+11、The actor entered the stage right on cue. 就在这个时候，男演员走上了舞台。   
+12、I went on a diet and curbed my appetite for food and drink. 我节食，并且控制自己的食欲。   
+13、Their excuse was a deliberate lie, but nobody detected it. 他们的理由是个精心编造的谎言，但没人发觉。   
+       14、Consideration for others differentiates a thoughtful person from a thoughtless person. 能否为别人考虑是体贴的人与不体贴的人之间的区别。  
+15、
