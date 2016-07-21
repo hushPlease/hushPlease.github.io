@@ -39,4 +39,12 @@ comments: true
 22、She is completely eclipsed by her sister, who is cleverer, prettier and more amusing. 她在她妹妹前黯然失色。她的妹妹比她更聪明、更漂亮、更迷人。  
 23、After leaving college, Janet embarked upon a business career. 离开大学之后，珍妮特开始了商业生涯。  
 24、Owning an automobile entailed greater expense than we had expected. 拥有一辆汽车必须承担超过我们预期的开支。  
-25、
+25、Not only do the tides advance and retreat in their eternal rhythms, but the surface of the sea itself is never at rest. 不仅是潮涨潮落有其本身永恒的规律，而且海平面也从来不是静止的。  
+26、Ethics is the branch of philosophy that deals with the values of life in a coherent, systematic and scientific manner. 伦理学是哲学的分支，其对生命价值的探讨具有连贯性、系统性以及科学性。  
+27、The volcano is still active, as evidenced by the recent eruption. 这座火山仍然活跃，最近的喷发就证明了这一点。  
+28、A patent gives inventors exclusive rights to their inventions for a fixed period of time. 专利赋予发明人在特定的时期内对该项发明的独占权。  
+29、The robber made a fleet escape. 强盗飞快地逃走了。  
+30、After dinner, she flushed food scraps down the garbage disposal. 晚饭以后，她把剩饭倒到垃圾处理机里冲走。  
+31、His attempt to kill the leader was foiled by the guard. 他试图刺杀首领，被守卫阻止了。  
+32、The kitten played in the folds of the curtain. 小猫在窗帘的褶皱处玩耍。  
+33、
