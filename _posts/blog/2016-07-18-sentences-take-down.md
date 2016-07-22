@@ -49,4 +49,9 @@ comments: true
 32、The kitten played in the folds of the curtain. 小猫在窗帘的褶皱处玩耍。  
 33、She hoped that taking night classes would further her career. 她希望读夜校能进一步发展她的事业。  
 34、For any adhesive to make a really strong bond, the surfaces to be glued must be absolutely clean and free from moisture or grease. 对任何黏合剂来说，想要真正粘的结实，胶合面必须要干净，没有一点水或油脂。  
-35、
+35、Gross receipts are all the money taken in before costs are deducted. 总收入是指未扣除开支的所有收入。  
+36、Mutual respect and understanding among all racial and ethnic groups have become imperative in the life of the nation. 所有种族和民族之间互相尊重、互相理解已经成为这个国家生存的必需因素。  
+37、The new president was inaugurated with much ceremony. 新任总统举行了盛大的就职仪式。  
+38、The economic depression has inflicted heavy losses in Asia. 经济衰退使亚洲遭受了重大的损失。  
+39、The police instituted a probe into the murder. 警察就谋杀案展开调查。  
+40、
