@@ -47,4 +47,6 @@ comments: true
 30、After dinner, she flushed food scraps down the garbage disposal. 晚饭以后，她把剩饭倒到垃圾处理机里冲走。  
 31、His attempt to kill the leader was foiled by the guard. 他试图刺杀首领，被守卫阻止了。  
 32、The kitten played in the folds of the curtain. 小猫在窗帘的褶皱处玩耍。  
-33、
+33、She hoped that taking night classes would further her career. 她希望读夜校能进一步发展她的事业。  
+34、For any adhesive to make a really strong bond, the surfaces to be glued must be absolutely clean and free from moisture or grease. 对任何黏合剂来说，想要真正粘的结实，胶合面必须要干净，没有一点水或油脂。  
+35、
