@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "English Take-Down"
+title: "English Take-Down Vol.1"
 modified:
 categories: blog
-excerpt: "English sentences take-down."
+excerpt: "English sentences take-down vol.1."
 tags: [Notes]
 image:
   feature: bg\6.jpg
@@ -54,4 +54,10 @@ comments: true
 37、The new president was inaugurated with much ceremony. 新任总统举行了盛大的就职仪式。  
 38、The economic depression has inflicted heavy losses in Asia. 经济衰退使亚洲遭受了重大的损失。  
 39、The police instituted a probe into the murder. 警察就谋杀案展开调查。  
-40、
+40、The statistician marshaled his facts before making his presentation. 统计学家先把论据整理好，然后开始做陈述。  
+41、Make a memorandum of the things we'll need for the trip. 把我们旅行需要的东西写张条儿吧。  
+42、Official say the attack was orchestrated by a militant group. 官方称这次袭击是由一个激进组织策划的。  
+43、The little girl stood mute with astonishment. 小女孩惊呆了，默默地站着。  
+44、At times he seemed purposely to obscure his meaning, preferring mystery to clarity. 有时，他似乎有意地遮掩他所要表达的意思，更喜欢神秘一点，不喜欢明晰地表达。  
+45、She did not like the author's pedestrian style of writing. 她不喜欢作者缺乏想象力的写作风格。  
+46、
