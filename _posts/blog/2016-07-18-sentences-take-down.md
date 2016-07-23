@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-18T21:06:55-04:00
-modified: 2016-07-22T23:47:22-04:00
+modified: 2016-07-23T16:29:06-04:00
 share: true
 comments: true
 ---
@@ -60,4 +60,8 @@ comments: true
 43、The little girl stood mute with astonishment. 小女孩惊呆了，默默地站着。  
 44、At times he seemed purposely to obscure his meaning, preferring mystery to clarity. 有时，他似乎有意地遮掩他所要表达的意思，更喜欢神秘一点，不喜欢明晰地表达。  
 45、She did not like the author's pedestrian style of writing. 她不喜欢作者缺乏想象力的写作风格。  
-46、
+46、Mr.Wilson entered a plea of not guilty. 威尔逊先生提出无罪辩护（不承认有罪）。  
+47、Love and hatred are polar feelings or attitudes. 爱与恨是情感或者态度的两个极端。  
+48、Our local priest preached a sermon on the need for forgiveness. 我们本地的牧师在布道中说明互相原谅的必要性。  
+49、In a free society it is intrinsic that individuals and groups have the inherent right to propagate ideas and try to win converts. 在自由社会，个人和团体都有权传播教义和争取信徒。  
+50、
