@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-18T21:06:55-04:00
-modified: 2016-07-23T16:29:06-04:00
+modified: 2016-07-23T21:52:37-04:00
 share: true
 comments: true
 ---
@@ -64,4 +64,15 @@ comments: true
 47、Love and hatred are polar feelings or attitudes. 爱与恨是情感或者态度的两个极端。  
 48、Our local priest preached a sermon on the need for forgiveness. 我们本地的牧师在布道中说明互相原谅的必要性。  
 49、In a free society it is intrinsic that individuals and groups have the inherent right to propagate ideas and try to win converts. 在自由社会，个人和团体都有权传播教义和争取信徒。  
-50、
+50、Bad publicity hurts the mayor's chances for reelection. 负面报道影响了市长获得连任的机会。  
+51、Fishing is her favorite pursuit; reading is mine. 钓鱼是她最喜欢的消遣，阅读是我最喜欢的。  
+52、By the 1930's, jazz music was the rage. 到20世纪30年代，爵士乐风靡一时。  
+53、The scientists was recognized by the president for her outstanding achievements. 那位科学家做出了杰出的贡献，受到总统的表彰。  
+54、Memories of my first meeting with her recur on and off. 我第一次和她相遇的回忆不断重现。  
+55、The dilapidated downtown experienced a renaissance as the government began to repair the old buildings there. 政府决定开始重修老建筑物，这座破旧的城市正经历一场复兴。  
+56、The professor's scrutiny of the student's essay was thorough. 教授十分详细地检查学生写的文章。  
+57、Don't believe him; his words are sheer nonsense. 别相信他，他的话都是一派胡言。  
+58、My shoelace snapped when I pulled it too tightly. 我刚一系紧鞋带，它就断了。  
+59、It's really a bargain; you should snap it up. 这种东西价格真便宜，你应该马上买下它。  
+60、Salt and water form a solution. 盐和水形成溶液。  
+61、
