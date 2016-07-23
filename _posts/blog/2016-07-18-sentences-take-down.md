@@ -9,8 +9,8 @@ image:
   feature: bg\6.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/
-date: 2016-07-18T21:06:55-04:00
-modified: 2016-07-23T21:52:37-04:00
+date: 2016-07-18 21:06:55
+modified: 2016-07-23 21:55:03
 share: true
 comments: true
 ---
