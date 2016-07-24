@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-18 21:06:55
-modified: 2016-07-23 21:55:03
+modified: 2016-07-24 13:53:16
 share: true
 comments: true
 ---
@@ -75,4 +75,12 @@ comments: true
 58、My shoelace snapped when I pulled it too tightly. 我刚一系紧鞋带，它就断了。  
 59、It's really a bargain; you should snap it up. 这种东西价格真便宜，你应该马上买下它。  
 60、Salt and water form a solution. 盐和水形成溶液。  
-61、
+61、After founding four successful businesses, his business reputation was stainless. 成功建立了四个公司之后，他的商业信誉很优良。  
+62、Bob would be a more attractive person if he did not suppress his impulses toward warmth and affection. 如果鲍勃不去压抑自己对温暖与爱的向往，他会是一个更有吸引力的人。  
+63、A surge of anger swept over her when she saw her boyfriend with another woman. 当看见自己的男朋友和别的女人在一起的时候，她怒火中烧。  
+64、The transient breeze provided some relief from the summer heat, but we were soon perspiring again. 这一小阵微风给炎热的夏天带来一丝凉爽，但我们很快又流汗了。  
+65、The actress gave tribute to her director when she accepted her Oscar. 在接受奥斯卡金像奖的时候，这位女演员向导演表达了感激之情。  
+66、The cheap picture cost only a trifle. 只花了一点钱就买了这幅便宜的画。  
+67、All the boys in this class are required to tuck their shirts into their pants. 这个班里的所有男孩被要求把衬衫下摆塞到裤子里。  
+68、Virgin olive oil is very popular in Italy. 初榨橄榄油在意大利很受欢迎。  
+69、He wedged himself through the crowd to get a glimpse of the movie star. 他挤进人群瞥见了那位电影明星。
