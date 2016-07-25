@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-19 23:41:27
-modified: 2016-07-24 23:22:21
+modified: 2016-07-25 12:14:27
 share: true
 ---
 
@@ -112,3 +112,75 @@ share: true
 `SELECT prod_price FROM products ORDER BY prod_price DESC LIMIT 1;`
 
 > prod_price DESC 保证行是按照由最昂贵到最便宜检索的，而LIMIT 1告诉MySQL仅返回一行。
+
+`SELECT prod_name, prod_price FROM products WHERE prod_price = 2.50;`
+
+> 这条语句从products表中检索两个列，但不返回所有行，只返回prod_price值为2.50的行。
+
+**在同时使用ORDER BY和WHERE子句时，应该让ORDER BY位于WHERE之后，否则将会产生错误。**
+
+`SELECT prod_name, prod_price FROM products WHERE prod_name = 'fuses';`
+
+> 检查WHERE prod_name = 'fuses' 语句，它返回prod_name的值为Fuses的一行。MySQL在执行匹配时默认不区分大小写，所以fuses与Fuses匹配。
+
+`SELECT prod_name, prod_price FROM products WHERE prod_price < 10;`  
+`SELECT prod_name, prod_price FROM products WHERE prod_price <= 10;`
+
+`SELECT vend_id, prod_name FROM products WHERE vend_id <> 1003;`
+
+> 列出不是由供应商1003制造的所有产品。
+
+> 如果仔细观察上述WHERE子句中使用的条件，会看到有的值括在单引号内（如前面使用的'fuses'），而有的值未括起来。单引号用来限定字符串。如果将值与串类型的列进行比较，则需要限定引号。用来与数值列进行比较的值不用引号。
+
+`SELECT prod_name, prod_price FROM products WHERE prod_price BETWEEN 5 AND 10;`
+
+> 在使用BETWEEN时，必须指定两个值，所需范围的低端值和高端值。这两个值必须用AND关键字分隔。BETWEEN匹配范围中所有的值，包括指定的开始值和结束值。
+
+**NULL**：无值(no value)，它与字段包含0、空字符串或仅仅包含空格不同。
+
+`SELECT cust_id FROM customers WHERE cust_email IS NULL;`
+
+> 返回customers表中cust_email为空值的cust_id列
+
+> 在通过过滤选择出不具有特定值的行时，你可能希望返回具有NULL值的行。但是，不行。因为未知具有特殊的含义，数据库不知道它们是否匹配，所以在匹配过滤或不匹配过滤时不返回它们。因此，在过滤数据时，一定要验证返回数据中确实给出了被过滤列具有NULL的行。
+
+**操作符(operator)**：用来联结或改变WHERE子句中的子句的关键字。也称为逻辑操作符(logical operator)。
+
+`SELECT prod_id, prod_price, prod_name FROM products WHERE vend_id = 1003 AND prod_price <= 10;`
+
+> 此SQL语句检索由供应商1003制造且价格小于等于10美元的所有产品的名称和价格。AND指示DBMS只返回满足所有给定条件的行。还可以添加多个过滤条件，每添加一条就要使用一个AND。
+
+**AND**：用在WHERE子句中的关键字，用来指示检索满足所有给定条件的行。
+
+`SELECT prod_name, prod_price FROM products WHERE vend_id = 1002 OR vend_id = 1003;`
+
+> 此SQL语句检索由任一个指定供应商制造的所有产品的产品名和价格。OR操作符告诉DBMS匹配任一条件而不是同时匹配两个条件。
+
+**OR**：WHERE子句中使用的关键字，用来表示检索匹配任一给定条件的行。
+
+**SQL（像多数语言一样）在处理OR操作符前，优先处理AND操作符。**
+
+`SELECT prod_name, prod_price FROM products WHERE (vend_id = 1002 OR vend_id = 1003) AND prod_price >= 10;`
+
+> 因为圆括号具有较AND或OR操作符高的计算次序，DBMS首先过滤圆括号内的OR条件。这时，SQL语句变成了*选择由供应商1002或1003制造的且价格都在10美元（含）以上的任何产品*，这正是我们所希望的。
+
+`SELECT prod_name, prod_price FROM products WHERE vend_id IN (1002, 1003) ORDER BY prod_name;`
+
+> 此SELECT语句检索供应商1002和1003制造的所有产品。IN操作符后跟逗号分隔的合法值清单，整个清单必须括在圆括号中。
+
+**IN**：WHERE自居中华用来指定要匹配值的清单的关键字，功能与OR相当。
+
+为什么要使用IN操作符？其优点具体如下。
+
+* 在使用长的合法选项清单时，IN操作符的语法更清楚而且直观。
+* 在使用IN时，计算的次序更容易管理（因为使用的操作符更少）。
+* IN操作符一般比OR操作符清单执行更快。
+* IN的最大优点是可以包含其他SELECT语句，使得能够更动态地建立WHERE子句。
+
+**NOT**：WHERE子句中用来否定后跟条件的关键字。
+
+`SELECT prod_name, prod_price FROM products WHERE vend_id NOT IN (1002,1003) ORDER BY prod_name;`
+
+> 这里的NOT否定跟在它之后的条件，因此，MySQL不是匹配1002和1003的vend_id，而是匹配1002和1003之外供应商的vend_id。
+
+> MySQL支持使用NOT对IN、BETWEEN和EXISTS子句取反，这与多数其他DBMS允许使用NOT对各种条件取反有很大的差别。
