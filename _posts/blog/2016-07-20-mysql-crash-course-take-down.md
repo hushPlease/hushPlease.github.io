@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-19 23:41:27
-modified: 2016-07-25 12:14:27
+modified: 2016-07-26 00:06:59
 share: true
 ---
 
@@ -201,4 +201,48 @@ share: true
 
 **虽然似乎%通配符可以匹配任何东西，但有一个例外，即NULL。**
 
+`SELECT prod_id, prod_name FROM products WHERE prod_name LIKE '_ ton anvil';`
+
+> 此WHERE子句中的搜索模式给出了后面跟有文本的两个通配符。
+
 **与%能匹配0个字符不一样，_总是匹配一个字符，不能多也不能少。**
+
+`SELECT prod_name FROM products WHERE prod_name REGEXP '1000' ORDER BY prod_name;`
+
+> REGEXP后所跟的东西作为正则表达式（与文字正文1000匹配的一个正则表达式）处理。
+
+`SELECT prod_name FROM products WHERE prod_name REGEXP '.000' ORDER BY prod_name;`
+
+> 这里使用了正则表达式.000。.是正则表达式语言中一个特殊的字符。它表示匹配任意一个字符。
+
+* LIKE匹配整个列。如果被匹配的文本在列值中出现，LIKE将不会找到它，相应的行也不被返回（除非使用通配符）。
+* REGEXP在列值内进行匹配，如果被匹配的文本在列值中出现，REGEXP将会找到它，相应的行将被返回。
+
+> MySQL中的正则表达式匹配（自版本3.23.4后）不区分大小写（即，大写和小写都匹配）。为区分大小写，可使用BINARY关键字，如`WHERE prod_name REGEXP BINARY 'JetPack .000';`。
+
+`SELECT prod_name FROM products WHERE prod_name REGEXP '1000|2000' ORDER BY prod_name;`
+
+> |为正则表达式的OR操作符。它表示匹配其中之一，因此1000和2000都匹配并返回。可以给出两个以上的OR条件。
+
+`SELECT prod_name FROM products WHERE prod_name REGEXP '[123] Ton' ORDER BY prod_name;`
+
+> [123]定义一组字符，它的意思是匹配1或2或3。
+
+**字符集合也可以被否定，即，它们将匹配除指定字符外的任何东西。为否定一个字符集，在集合的开始处放置一个^即可。因此，尽管[123]匹配字符1、2或3，但[^123]却匹配除这些字符外的任何东西。**
+
+**可使用-来定义一个范围，如[0-9]。范围不限于完整的集合，[1-3]和[6-9]也是合法的范围。此外，范围不一定只是数值的，[a-z]匹配任意字母字符。**
+
+**为了匹配特殊字符，必须用\\为前导。\\-表示查找-，\\.表示查找.。**
+
+`SELECT vend_name FROM vendors WHERE vend_name REGEXP '\\.' ORDER BY vend_name;`
+
+#### 空白元字符
+
+| 元字符 | 说明 |
+|:--------|--------:|
+| \\f | 换页 |
+| \\n | 换行 |
+| \\r | 回车 |
+| \\t | 制表 |
+| \\v | 纵向制表 |
+{: .table}
