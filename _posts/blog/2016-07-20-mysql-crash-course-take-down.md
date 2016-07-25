@@ -184,3 +184,21 @@ share: true
 > 这里的NOT否定跟在它之后的条件，因此，MySQL不是匹配1002和1003的vend_id，而是匹配1002和1003之外供应商的vend_id。
 
 > MySQL支持使用NOT对IN、BETWEEN和EXISTS子句取反，这与多数其他DBMS允许使用NOT对各种条件取反有很大的差别。
+
+**通配符(wildcard)**：用来匹配值的一部分的特殊字符。
+
+**搜索模式(search pattern)**：由字面值、通配符或两者组合构成的搜索条件。
+
+**在搜索串中，%表示任何字符出现任意次数。**
+
+`SELECT prod_id, prod_name FROM products WHERE prod_name LIKE 'jet%';`
+
+> 此例子使用了搜索模式'jet%'。在执行这条语句时，将检索任意以jet起头的词。%告诉MySQL接受jet之后的任意字符，不管它有多少字符。
+
+`SELECT prod_id, prod_name FROM products WHERE prod_name LIKE '%anvil%';`
+
+> 搜索模式'%anvil%'表示匹配任何位置包含文本anvil的值，而不论它之前或之后出现什么字符。
+
+**虽然似乎%通配符可以匹配任何东西，但有一个例外，即NULL。**
+
+**与%能匹配0个字符不一样，_总是匹配一个字符，不能多也不能少。**
