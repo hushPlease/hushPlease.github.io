@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-19 23:41:27
-modified: 2016-07-26 17:40:28
+modified: 2016-07-26 23:23:05
 share: true
 ---
 
@@ -336,4 +336,118 @@ share: true
 ##### 如何测试计算
 
 SELECT提供了测试和试验函数与计算的一个很好的办法。虽然SELECT通常用来从表中检索数据，但可以省略FROM子句以便简单地访问和处理表达式。例如，`SELECT 3*2;`将返回6，`SELECT Trim('abc');`将返回abc，而`SELECT Now();`利用`Now()`函数返回当前日期和时间。通过这些例子，可以明白如何根据需要使用SELECT进行试验。
+
+##### 常用的文本处理函数
+
+| 函数 | 说明 |
+|:---------|---------:|
+| Left() | 返回串左边的字符 |
+| Length() | 返回串的长度 |
+| Locate() | 找出串的一个子串 |
+| Lower() | 将串转换为小写 |
+| LTrim() | 去掉串左边的空格 |
+| Right() | 返回串右边的字符 |
+| RTrim() | 去掉串右边的空格 |
+| Soundex() | 返回串的SOUNDEX值 |
+| SubString() | 返回子串的字符 |
+| Upper() | 将串转换为大写 |
+{: .table}
+
+**SOUNDEX**是一个将任何文本串转换为其语音表示的字母数字模式的算法。SOUNDEX考虑了类似的发音字符和音节，使得能对串进行发音比较而不是子母比较。
+
+##### 常用日期和时间处理函数
+
+| 函数 | 说明 |
+|:---------|---------:|
+| AddDate() | 增加一个日期(天、周等) |
+| AddTime() | 增加一个时间(时、分等) |
+| CurDate() | 返回当前日期 |
+| CurTime() | 返回当前时间 |
+| Date() | 返回日期时间的日期部分 |
+| DateDiff() | 计算两个日期之差 |
+| Date_Add() | 高度灵活的日期运算函数 |
+| Date_Format() | 返回一个格式化的日期或时间串 |
+| Day() | 返回一个日期的天数部分 |
+| DayOfWeek() | 对于一个日期，返回对应的星期几 |
+| Hour() | 返回一个时间的小时部分 |
+| Minute() | 返回一个时间的分钟部分 |
+| Month() | 返回一个日期的月份部分 |
+| Now() | 返回当前日期和时间 |
+| Second() | 返回一个时间的秒部分 |
+| Time() | 返回一个日期时间的时间部分 |
+| Year() | 返回一个日期的年份部分 |
+{: .table}
+
+`SELECT cust_id, order_num FROM orders WHERE Date(order_date) = '2005-09-01';`
+
+> 日期必须为格式yyyy-mm-dd。这是首选的日期格式，因为它排除了多义性，
+
+    SELECT cust_id, order_num
+    FROM orders
+    WHERE Date(order_date) BETWEEN '2005-09-01' AND '2005-09-30';
+
+> BETWEEN操作符用来把2005-09-01和2005-09-30定义为一个要匹配的日期范围。
+另一种检索出2005年9月份订单的方法如下所示：
+
+    SELECT cust_id, order_num
+    FROM orders
+    WHERE Year(order_date) = 2005 AND Month(order_date) = 9;
+    
+##### 常用数值处理函数
+
+| 函数 | 说明 |
+|:---------|---------:|
+| Abs() | 返回一个数的绝对值 |
+| Cos() | 返回一个角度的余弦 |
+| Exp() | 返回一个数的指数值 |
+| Mod() | 返回除操作的余数 |
+| Pi() | 返回圆周率 |
+| Rand() | 返回一个随机数 |
+| Sin() | 返回一个角度的正弦 |
+| Sqrt() | 返回一个数的平方根 |
+| Tan() | 返回一个角度的正切 |
+{: .table}
+
+**聚集函数(aggregate function)**：运行在行组上，计算和返回单个值的函数。
+
+##### SQL聚集函数
+
+| 函数 | 说明 |
+|:---------|---------:|
+| AVG() | 返回某列的平均值 |
+| COUNT() | 返回某列的行数 |
+| MAX() | 返回某列的最大值 |
+| MIN() | 返回某列的最小值 |
+| SUM() | 返回某列值之和 |
+{: .table}
+
+`SELECT AVG(prod_price) AS avg_price FROM products WHERE vend_id = 1003;`
+
+> AVG()函数忽略列值为NULL的行。
+
+`SELECT COUNT(*) AS num_cust FROM customers;`  
+`SELECT COUNT(cust_email) AS num_cast FROM customers;`
+
+> 如果指定列名，则指定列的值为空的行被`COUNT()`函数忽略，但如果`COUNT()`函数中用的是星号(*)，则不忽略。
+
+`SELECT MAX(prod_price) AS max_price FROM products;`
+
+> 在用于文本数据时，如果数据按相应的列排序，则`MAX()`返回最后一行。`MAX()`函数忽略值为NULL的行。
+
+`SELECT MIN(prod_price) AS min_price FROM products;`
+
+> 在用于文本数据时，如果数据按相应的列排序，则`MIN()`返回最前面的行。`MIN()`函数忽略值为NULL的行。 
+
+`SELECT SUM(item_price*quantity) AS total_price FROM orderitems WHERE order_num = 20005;`
+
+> `SUM()`函数忽略值为NULL的行。
+
+以上5个聚集函数都可以如下使用：
+
+* 对所有的行执行计算，指定`ALL`参数或不给参数(因为ALL是默认行为)；
+* 只包含不同的值，指定`DISTINCT`参数。
+
+`SELECT AVG(DISTINCT prod_price) AS avg_price FROM products WHERE vend_id = 1003;`
+
+> 如果指定列名，则`DISTINCT`只能用于`COUNT()`。`DISTINCT`不能用于`COUNT(*)`，因此不允许使用`COUNT(DISTINCT)`，否则会产生错误。类似地，`DISTINCT`必须使用列名，不能用于计算或表达式。
 
