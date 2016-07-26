@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-19 23:41:27
-modified: 2016-07-26 00:06:59
+modified: 2016-07-26 12:08:05
 share: true
 ---
 
@@ -232,11 +232,11 @@ share: true
 
 **可使用-来定义一个范围，如[0-9]。范围不限于完整的集合，[1-3]和[6-9]也是合法的范围。此外，范围不一定只是数值的，[a-z]匹配任意字母字符。**
 
-**为了匹配特殊字符，必须用\\\为前导。\\\-表示查找-，\\\.表示查找.。**
+**为了匹配特殊字符，必须用`\\`为前导。`\\-`表示查找-，`\\.`表示查找.。**
 
 `SELECT vend_name FROM vendors WHERE vend_name REGEXP '\\.' ORDER BY vend_name;`
 
-| 元字符 | 说明 |
+| 空白元字符 | 说明 |
 |:--------|--------:|
 | \\\f | 换页 |
 | \\\n | 换行 |
@@ -244,3 +244,94 @@ share: true
 | \\\t | 制表 |
 | \\\v | 纵向制表 |
 {: .table}
+
+**为了匹配反斜杠(`\`)字符本身，需要使用`\\\`。**
+
+> 多数正则表达式实现使用单个反斜杠转义特殊字符，以便能使用这些字符本身。但MySQL要求两个反斜杠(MySQL自己解释一个，正则表达式库解释另一个)。
+
+| 字符类 | 说明 |
+|:--------|--------:|
+| [:alnum:] | 任意字母和数字(同[a-zA-Z0-9]) |
+| [:alpha:] | 任意字符(同[a-zA-Z]) |
+| [:blank:] | 空格和制表(同[\\\t]) |
+| [:cntrl:] | ASCⅡ控制字符(ASCⅡ 0到31和127) |
+| [:digit:] | 任意数字(同[0-9]) |
+| [:graph:] | 与[:print:]相同，但不包含空格 |
+| [:lower:] | 任意小写字母(同[a-z]) |
+| [:print:] | 任意可打印字符 |
+| [:punct:] | 既不在[:alnum:]又不在[:cntrl:]中的任意字符 |
+| [:space:] | 包括空格在内的任意空白字符(同[\\\f\\\n\\\r\\\t\\\v]) |
+| [:upper:] | 任意大写字母(同[A-Z]) |
+| [:xdigit:] | 任意十六进制数字(同[a-fA-F0-9])
+{: .table}
+
+| 重复元字符 | 说明 |
+|:----------|----------:|
+| * | 0个或多个匹配 |
+| + | 1个或多个匹配(等于{1,}) |
+| ? | 0个或1个匹配(等于{0,1}) |
+| {n} | 指定数目的匹配 |
+| {n,} | 不少于指定数目的匹配 |
+| {n,m} | 匹配数目的范围(m不超过255) |
+{: .table}
+
+`SELECT prod_name FROM products WHERE prod_name REGEXP '\\([0-9] sticks?\\)' ORDER BY prod_name;`
+
+> `\\(`匹配`(`，`[0-9]`匹配任意数字，`sticks?`匹配stick和sticks(s后的`?`使s可选，因为`?`匹配它前面的任何字符的0次或1次出现)，`\\)`匹配`)`。
+
+`SELECT prod_name FROM products WHERE prod_name REGEXP '[[:digit:]]{4}' ORDER BY prod_name;`  
+`SELECT prod_name FROM products WHERE prod_name REGEXP '[0-9][0-9][0-9][0-9]' ORDER BY prod_name;`
+
+> 如前所述，`[:digit:]`匹配任意数字，因而它为数字的一个集合。`{4}`确切地要求它前面的字符(任意数字)出现4次，所以`[[:digit:]]{4}`匹配连在一起的任意4位数字。
+
+| 定位元字符 | 说明 |
+|:----------|----------:|
+| ^ | 文本的开始 |
+| $ | 文本的结尾 |
+| [[:<:]] | 词的开始 |
+| [[:>:]] | 词的结尾 |
+{: .table}
+
+`SELECT prod_name FROM products WHERE prod_name REGEXP '^[0-9\\.]' ORDER BY prod_name;`
+
+> `^`匹配串的开始。因此，`^[0-9\\.]`只在.或任意数字为串中第一个字符时才匹配它们。没有`^`，则还要多检索出4个别的行(那些中间有数字的行)。
+
+**^有两种用法。在集合中（用[和]定义），用它来否定该集合，否则，用来指串的开始处。**
+
+##### 简单的正则表达式测试
+
+可以在不使用数据库表的情况下用SELECT来测试正则表达式。REGEXP检查总是返回0(没有匹配)或1(匹配)。可以用带文字串的REGEXP来测试表达式，并试验它们。相应的语法如下：  
+`SELECT 'hello' REGEXP '[0-9]';`  
+这个例子显然将返回0(因为文本hello中没有数字)。
+
+**字段(field)**：基本上与列(column)的意思相同，经常互换使用，不过数据库列一般称为列，而术语字段通常用在计算字段的连接上。
+
+**拼接(concatenate)**：将值联结到一起构成单个值。
+
+> 多数DBMS使用`+`或`||`来实现拼接，MySQL则使用`Concat()`函数来实现。当把SQL语句转换成MySQL语句时一定要把这个区别铭记在心。
+
+`SELECT Concat(vend_name, ' (', vend_country, ')') FROM vendors ORDER BY vend_name;`
+
+> `Concat()`拼接串，即把多个串连接起来形成一个较长的串。
+
+上面的SELECT语句连接以下4个元素：
+
+* 存储在vend_name列中的名字；
+* 包含一个空格和一个左圆括号的串；
+* 存储在vend_country列中的国家；
+* 包含一个右括号的串。
+
+`SELECT Concat(RTrim(vend_name), ' (', RTrim(vend_country), ')') FROM vendors ORDER BY vend_name;`
+
+> `RTrim()`函数去掉值右边的所有空格。MySQL还支持`LTrim()`(去掉串左边的空格)以及`Trim()`(去掉串左右两边的空格)。
+
+**别名(alias)**：一个字段或值的替换名。用AS关键字赋予。有时也称为**导出列(derived column)**。
+
+`SELECT Concat(RTrim(vend_name), ' (', RTrim(vend_country), ')') AS vend_title FROM vendors ORDER BY vend_name;`
+
+`SELECT prod_id, quantity, item_price, quantity*item_price AS expanded_price FROM orderitems WHERE order_num = 20005;`
+
+##### 如何测试计算
+
+SELECT提供了测试和试验函数与计算的一个很好的办法。虽然SELECT通常用来从表中检索数据，但可以省略FROM子句以便简单地访问和处理表达式。例如，`SELECT 3*2;`将返回6，`SELECT Trim('abc');`将返回abc，而`SELECT Now();`利用`Now()`函数返回当前日期和时间。通过这些例子，可以明白如何根据需要使用SELECT进行试验。
+
