@@ -327,10 +327,11 @@ share: true
 
 **别名(alias)**：一个字段或值的替换名。用AS关键字赋予。有时也称为**导出列(derived column)**。
 
-`SELECT Concat(RTrim(vend_name), ' (', RTrim(vend_country), ')') AS vend_title FROM vendors ORDER BY vend_name;`
+    SELECT Concat(RTrim(vend_name), ' (', RTrim(vend_country), ')') AS vend_title
+    FROM vendors ORDER BY vend_name;
 
-    SELECT prod_id, quantity, item_price, quantity*item_price AS expanded_price FROM 
-    orderitems WHERE order_num = 20005;
+    SELECT prod_id, quantity, item_price, quantity*item_price AS expanded_price
+    FROM orderitems WHERE order_num = 20005;
 
 ##### 如何测试计算
 
