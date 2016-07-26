@@ -10,11 +10,11 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-19 23:41:27
-modified: 2016-07-26 12:08:05
+modified: 2016-07-26 17:40:28
 share: true
 ---
 
-**数据库(database)**：保存有组织的数据的容器（通常是一个文件或一组文件）。
+**数据库(database)**：保存有组织的数据的容器(通常是一个文件或一组文件)。
 
 **表(table)**：某种特定类型数据的结构化清单。
 
@@ -22,11 +22,11 @@ share: true
 
 **列(column)**：表中的一个字段。所有表都是由一个或多个列组成的。
 
-**数据类型(datatype)**：所容许的数据的类型。每个表列都有相应的数据类型，它限制（或容许）该列中存储的数据。
+**数据类型(datatype)**：所容许的数据的类型。每个表列都有相应的数据类型，它限制(或容许)该列中存储的数据。
 
 **行(row)**：表中的一个记录。
 
-**主键(primary key)**：一列（或一组列），其值能够唯一区分表中每个行。
+**主键(primary key)**：一列(或一组列)，其值能够唯一区分表中每个行。
 
 > 命令用;或\g结束，换句话说，仅按Enter不执行命令
 
@@ -46,7 +46,7 @@ share: true
 
 `SHOW COLUMNS FROM customers;`
 
-> SHOW COLUMNS要求给出一个表名，它对每个字段返回一行，行中包含字段名、数据类型、是否允许NULL、键信息、默认值以及其他信息（如某字段的auto_increment）。
+> SHOW COLUMNS要求给出一个表名，它对每个字段返回一行，行中包含字段名、数据类型、是否允许NULL、键信息、默认值以及其他信息(如某字段的auto_increment)。
 
 > MySQL支持用DESCRIBE作为SHOW COLUMNS FROM的一种快捷方式。
 
@@ -68,7 +68,7 @@ share: true
 
 `SELECT DISTINCT vend_id FROM products;`
 
-> SELECT DISTINCT vend_id告诉MySQL只返回不同（唯一）的vend_id行。如果使用DISTINCT关键字，它必须直接放在列名的前面。
+> SELECT DISTINCT vend_id告诉MySQL只返回不同(唯一)的vend_id行。如果使用DISTINCT关键字，它必须直接放在列名的前面。
 
 `SELECT prod_name FROM products LIMIT 5;`
 
@@ -80,7 +80,7 @@ share: true
 
 > 检索出来的第一行为行0而不是行1.因此，LIMIT 1, 1将检索出第二行而不是第一行。
 
-> LIMIT中指定要检索的行数为检索的最大行数。如果没有足够的行（例如，给出LIMIT 10, 5，但只有13行），MySQL将只返回它能返回的那么多行。
+> LIMIT中指定要检索的行数为检索的最大行数。如果没有足够的行(例如，给出LIMIT 10, 5，但只有13行)，MySQL将只返回它能返回的那么多行。
 
 > LIMIT 3, 4的含义是从行4开始的3行还是从行3开始的4行？如前所述，它的意思是从行3开始的4行？如前所述，它的意思是从行3开始的4行，这容易把人搞糊涂。由于这个原因，MySQL 5支持LIMIT的另一种替代语法。LIMIT 4 OFFSET 3意为从行3开始取4行，就像LIMIT 3, 4一样。
 
@@ -101,11 +101,11 @@ share: true
 
 `SELECT prod_id, prod_price, prod_name FROM products ORDER BY prod_price DESC, prod_name;`
 
-> 以降序排序产品（最贵的在最前面），然后再对产品名排序
+> 以降序排序产品(最贵的在最前面)，然后再对产品名排序
 
 > DESC关键字只应用到直接位于其前面的列名。如果想在多个列上进行降序排序，必须对每个列指定DESC关键字。
 
-> 与DESC相反的关键字是ASC(ASCENDING)，在升序排序时可以指定它。但实际上，ASC没有多大用处，因为升序是默认的（如果既不制定ASC也不指定DESC，则假定为ASC）。
+> 与DESC相反的关键字是ASC(ASCENDING)，在升序排序时可以指定它。但实际上，ASC没有多大用处，因为升序是默认的(如果既不制定ASC也不指定DESC，则假定为ASC)。
 
 **使用ORDER BY和LIMIT的组合，能够找出一个列中最高或最低的值。**
 
@@ -130,7 +130,7 @@ share: true
 
 > 列出不是由供应商1003制造的所有产品。
 
-> 如果仔细观察上述WHERE子句中使用的条件，会看到有的值括在单引号内（如前面使用的'fuses'），而有的值未括起来。单引号用来限定字符串。如果将值与串类型的列进行比较，则需要限定引号。用来与数值列进行比较的值不用引号。
+> 如果仔细观察上述WHERE子句中使用的条件，会看到有的值括在单引号内(如前面使用的'fuses')，而有的值未括起来。单引号用来限定字符串。如果将值与串类型的列进行比较，则需要限定引号。用来与数值列进行比较的值不用引号。
 
 `SELECT prod_name, prod_price FROM products WHERE prod_price BETWEEN 5 AND 10;`
 
@@ -158,11 +158,11 @@ share: true
 
 **OR**：WHERE子句中使用的关键字，用来表示检索匹配任一给定条件的行。
 
-**SQL（像多数语言一样）在处理OR操作符前，优先处理AND操作符。**
+**SQL(像多数语言一样)在处理OR操作符前，优先处理AND操作符。**
 
 `SELECT prod_name, prod_price FROM products WHERE (vend_id = 1002 OR vend_id = 1003) AND prod_price >= 10;`
 
-> 因为圆括号具有较AND或OR操作符高的计算次序，DBMS首先过滤圆括号内的OR条件。这时，SQL语句变成了*选择由供应商1002或1003制造的且价格都在10美元（含）以上的任何产品*，这正是我们所希望的。
+> 因为圆括号具有较AND或OR操作符高的计算次序，DBMS首先过滤圆括号内的OR条件。这时，SQL语句变成了*选择由供应商1002或1003制造的且价格都在10美元(含)以上的任何产品*，这正是我们所希望的。
 
 `SELECT prod_name, prod_price FROM products WHERE vend_id IN (1002, 1003) ORDER BY prod_name;`
 
@@ -173,7 +173,7 @@ share: true
 为什么要使用IN操作符？其优点具体如下。
 
 * 在使用长的合法选项清单时，IN操作符的语法更清楚而且直观。
-* 在使用IN时，计算的次序更容易管理（因为使用的操作符更少）。
+* 在使用IN时，计算的次序更容易管理(因为使用的操作符更少)。
 * IN操作符一般比OR操作符清单执行更快。
 * IN的最大优点是可以包含其他SELECT语句，使得能够更动态地建立WHERE子句。
 
@@ -209,16 +209,16 @@ share: true
 
 `SELECT prod_name FROM products WHERE prod_name REGEXP '1000' ORDER BY prod_name;`
 
-> REGEXP后所跟的东西作为正则表达式（与文字正文1000匹配的一个正则表达式）处理。
+> REGEXP后所跟的东西作为正则表达式(与文字正文1000匹配的一个正则表达式)处理。
 
 `SELECT prod_name FROM products WHERE prod_name REGEXP '.000' ORDER BY prod_name;`
 
 > 这里使用了正则表达式.000。.是正则表达式语言中一个特殊的字符。它表示匹配任意一个字符。
 
-* LIKE匹配整个列。如果被匹配的文本在列值中出现，LIKE将不会找到它，相应的行也不被返回（除非使用通配符）。
+* LIKE匹配整个列。如果被匹配的文本在列值中出现，LIKE将不会找到它，相应的行也不被返回(除非使用通配符)。
 * REGEXP在列值内进行匹配，如果被匹配的文本在列值中出现，REGEXP将会找到它，相应的行将被返回。
 
-> MySQL中的正则表达式匹配（自版本3.23.4后）不区分大小写（即，大写和小写都匹配）。为区分大小写，可使用BINARY关键字，如`WHERE prod_name REGEXP BINARY 'JetPack .000';`。
+> MySQL中的正则表达式匹配(自版本3.23.4后)不区分大小写(即，大写和小写都匹配)。为区分大小写，可使用BINARY关键字，如`WHERE prod_name REGEXP BINARY 'JetPack .000';`。
 
 `SELECT prod_name FROM products WHERE prod_name REGEXP '1000|2000' ORDER BY prod_name;`
 
@@ -296,7 +296,7 @@ share: true
 
 > `^`匹配串的开始。因此，`^[0-9\\.]`只在.或任意数字为串中第一个字符时才匹配它们。没有`^`，则还要多检索出4个别的行(那些中间有数字的行)。
 
-**^有两种用法。在集合中（用[和]定义），用它来否定该集合，否则，用来指串的开始处。**
+**^有两种用法。在集合中(用[和]定义)，用它来否定该集合，否则，用来指串的开始处。**
 
 ##### 简单的正则表达式测试
 
@@ -329,7 +329,8 @@ share: true
 
 `SELECT Concat(RTrim(vend_name), ' (', RTrim(vend_country), ')') AS vend_title FROM vendors ORDER BY vend_name;`
 
-`SELECT prod_id, quantity, item_price, quantity*item_price AS expanded_price FROM orderitems WHERE order_num = 20005;`
+    SELECT prod_id, quantity, item_price, quantity*item_price AS expanded_price FROM 
+    orderitems WHERE order_num = 20005;
 
 ##### 如何测试计算
 
