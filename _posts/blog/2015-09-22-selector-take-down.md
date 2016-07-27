@@ -17,8 +17,11 @@ image:
 
 选择器指明了{}中“样式”的作用对象，也就是样式作用于网页中的哪些元素
 
-## 属性选择器：声明属性与属性值
-声明方法：[att = val]（att代表属性，val代表属性值）
+* Table of Contents
+{:toc}
+
+## 属性选择器
+声明属性与属性值。声明方法：[att = val]（att代表属性，val代表属性值）
 `[id = inst] {background-color: #66ccff;}`
 
 * [att *= val]属性选择器
