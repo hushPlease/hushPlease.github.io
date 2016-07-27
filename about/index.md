@@ -22,4 +22,3 @@ Hush_Please, a web-front developer from China. Zest, share, and love.
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">More Info</a>
 
-[^1]: Example: *domain.com/category-name/post-title*
