@@ -451,3 +451,34 @@ share: true
 
 > 如果指定列名，则`DISTINCT`只能用于`COUNT()`。`DISTINCT`不能用于`COUNT(*)`，因此不允许使用`COUNT(DISTINCT)`，否则会产生错误。类似地，`DISTINCT`必须使用列名，不能用于计算或表达式。
 
+`SELECT vend_id, COUNT(*) AS num_prods FROM products GROUP BY vend_id;`
+
+> `GROUP BY`子句指示MYSQL按vend_id排序并分组数据。这导致对每个vend_id而不是整个表计算num_prods一次。
+
+* `GROUP BY`子句可以包含任意数目的列。这使得能对分组进行嵌套，为数据分组提供更细致的控制。
+* 如果在`GROUP BY`子句中嵌套了分组，数据将在最后规定的分组上进行汇总。换句话说，在建立分组时，指定的所有列都一起计算(所以不能从个别的列取回数据)。
+* `GROUP BY`子句中列出的每个列都必须是检索列或有效的表达式(但不能是聚集函数)。如果在SELECT中使用表达式，则必须在`GROUP BY`子句中指定相同的表达式。不能使用别名。
+* 除聚集计算语句外，`SELECT`语句中的每个列都必须在`GROUP BY`子句中给出。
+* 如果分组列中具有NULL值，则NULL将作为一个分组返回。**如果列中有多行NULL值，它们将分为一组。**
+* **`GROUP BY`子句必须出现在`WHERE`子句之后，`ORDER BY`子句之前。**
+
+使用`WITH ROLLUP`关键字，可以得到每个分组以及每个分组汇总级别(针对每个分组)的值，如下所示：
+
+`SELECT vend_id, COUNT(*) AS num_prods FROM products GROUP BY vend_id WITH ROLLUP;`
+
+**`WHERE`过滤行，而`HAVING`过滤分组。**`WHERE`在数据分组前进行过滤，`HAVING`在数据分组后进行过滤。
+
+`SELECT cust_id, COUNT(*) AS orders FROM orders GROUP BY cust_id HAVING COUNT(*) >= 2;`
+
+##### SELECT子句及其顺序
+
+| 子句 | 说明 | 是否必须使用 |
+|:---------|---------|---------:|
+| SELECT | 要返回的列或表达式 | 是 |
+| FROM | 从中检索数据的表 | 仅在从表选择数据时使用 |
+| WHERE | 行级过滤 | 否 |
+| GROUP BY | 分级说明 | 仅在按组计算聚集时使用 |
+| HAVING | 组级过滤 | 否 |
+| ORDER BY | 输出排序顺序 | 否 |
+| LIMIT | 要检索的行数 | 否 |
+{: .table}
