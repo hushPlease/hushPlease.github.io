@@ -4,7 +4,7 @@ title: "MySQL Crash Course Take-Down"
 modified:
 categories: blog
 excerpt: "MySQL Crash Course take-down."
-tags: [Notes]
+tags: [MySQL, Notes]
 image:
   feature: bg\7.jpg
   credit: WeGraphics

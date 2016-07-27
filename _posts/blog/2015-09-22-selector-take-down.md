@@ -2,8 +2,8 @@
 layout: post
 title: "CSS3 Selector Note"
 excerpt: "A note when I finished studying CSS3 selector."
-categories: articles
-tags: [CSS, Markdown]
+categories: blog
+tags: [CSS, Markdown, Notes]
 author: hush_please
 comments: true
 share: true
