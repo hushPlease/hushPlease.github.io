@@ -9,7 +9,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-07-28 23:43:19
-modified: 2016-07-29 12:12:09
+modified: 2016-07-29 12:24:23
 share: true
 comments: true
 ---
@@ -212,15 +212,19 @@ D.正确，删除相关字段需要动态维护索引，故效率降低。
 设有N和N’，N’为N中的任意位数的数字交换所得。  
 设N中的高位为a，a与b相差X位  
 	
-\\[ N = ar^{x+y} + br^{y} + k \\]
-\\[ N' = br^{x+y} + ar^{y} + k \\]
-\\[ N – N' = (a-b)r^{x+y} + (b-a)r^{y} \\]
-\\[        = (a-b)r^{y}·(r^{x}-1) \\]
+\\[ N = a·r^{x+y} + b·r^{y} + k \\]
+\\[ N' = b·r^{x+y} + a·r^{y} + k \\]
+\\[ N – N' = (a-b)·r^{x+y} + (b-a)·r^{y} \\]
+\\[        = (a-b)·r^{y}·(r^{x}-1) \\]
+
 只需证 r^{x}-1能被r-1整除。
-rx – 1 = (r-1)(rx-1 + rx-2 + ••• + r1 + r0)
+
+\\[ r^{x} – 1 = (r-1)(r^{x-1} + r^{x-2} + ... + r^{1} + r^{0}) \\]
+
 右式检验
-rx+ rx-1 + rx-2 + rx-3 +•••+r1-
-rx-1 – rx-2 – rx-3 -•••-r1 - r0 = rx - 1
+
+\\[ r^{x}+ r^{x-1} + r^{x-2} + r^{x-3} + ... + r^{1} - 
+    r^{x-1} – r^{x-2} – r^{x-3} - ... -r^{1} - r^{0} = r^{x} - 1 \\]
 
 9.关于session的。 为什么使用session?使用session的根本原因是?假如你使用的编程语言没有提供对session的支持，请你使用伪代码实现session机制。 请说明在你实现的机制中的安全因素。
 
