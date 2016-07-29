@@ -229,14 +229,14 @@ D.正确，删除相关字段需要动态维护索引，故效率降低。
 9.关于session的。为什么使用session?使用session的根本原因是?假如你使用的编程语言没有提供对session的支持，请你使用伪代码实现session机制。 请说明在你实现的机制中的安全因素。
 
 答：Session存储在服务端，用于记录用户的会话信息。从而将不同的访问者区分开来。
-``` javascript
-server.listen();
-if(isNew(client)){
-    new session(client);
-} else (
-    updateSession(client);
-)
-```
+
+    server.listen();
+    if(isNew(client)){
+        new session(client);
+    } else (
+        updateSession(client);
+    )
+
 安全机制的实现：对于新访问用户来说，通过该用户创建的session的访问权限为创建者自身。从而保证了不同访问用户间的相对独立。
 
 10.假如要让你的机制实现多个web服务器前端(多个机器)，你要怎样实现?假如要让你的机制实现无单点故障点(即一台机器当掉，不影响整个系统的运行)，你要怎样实现?
