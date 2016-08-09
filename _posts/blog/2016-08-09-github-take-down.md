@@ -36,3 +36,12 @@ share: true
 `$ ssh-keygen -t rsa -C "your_email@example.com"`
 
 **`id_rsa`文件是私有密钥,`id_rsa.pub`是公开密钥。**
+
+`id_rsa.pub`的内容可以用如下方法查看:
+
+    $ cat ~/.ssh/id_rsa.pub
+    ssh-rsa 公开密钥的内容 your_email@example.com
+
+* Add .gitignore
+**该文件用来描述Git仓库中不需管理的文件与目录。**这个设定会帮我们把不需要你在Git仓库中进行版本管理的文件记录在.gitignore文件中,省去了每次根据框架进行设置的麻烦。
+
