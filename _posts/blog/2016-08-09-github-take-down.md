@@ -43,5 +43,29 @@ share: true
     ssh-rsa 公开密钥的内容 your_email@example.com
 
 * Add .gitignore
+
 **该文件用来描述Git仓库中不需管理的文件与目录。**这个设定会帮我们把不需要你在Git仓库中进行版本管理的文件记录在.gitignore文件中,省去了每次根据框架进行设置的麻烦。
 
+##### MIT许可协议
+
+被授权人权利:被授权人有权利使用、复制、修改、合并、出版发行、散布、再授权和/或贩售软件及软件的副本,及授予被供应人同等权利,唯服从以下义务。
+
+被授权人义务:在软件和软件的所有副本中都必须包含以上版本声明和本许可声明。
+
+其他重要特性:此许可协议并非属copyleft的自由软件许可协议条款,允许在自由及开放源代码软件或非自由软件(proprietary software)所使用。
+
+MIT的内容可依照程序著作权者的需求更改内容。此亦为MIT与BSD(The BSD license, 3-clause BSD license)本质上不同处。
+
+MIT许可协议可与其他许可协议并存。另外,MIT条款也是自由软件基金会(FSF)所认可的自由软件许可协议条款,与GPL兼容。
+
+1. 基本操作
+   * git init —— 初始化仓库
+   * git status —— 查看仓库的状态
+   * git add —— 向暂存区中添加文件
+   * git commit —— 保存仓库的历史记录
+   * git log —— 查看提交日志
+   * git diff —— 查看更改前后的区别
+2. 分支的操作
+   * git branch —— 显示分支一览表
+   * git checkout -b —— 创建、切换分支
+   * git merge —— 合并分支
