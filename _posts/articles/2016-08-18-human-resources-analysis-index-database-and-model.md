@@ -3,6 +3,7 @@ layout: post
 title: "人力资源分析指标库和模型"
 categories: articles
 excerpt: "Human resources analytic index databases and models."
+author: hush_please
 tags:[Human Resources] 
 image:
   feature: bg\9.jpg
@@ -62,4 +63,4 @@ share: true
 
 【收集渠道】人力资源部员工花名册
 
-【备注】服务未满一年的按员工入职工作月份折算
+【备注】服务未满一年  的按员工入职工作月份折算
