@@ -4,7 +4,7 @@ title: "人力资源分析指标库和模型"
 categories: articles
 excerpt: "Human resources analytic index databases and models."
 author: hush_please
-tags:[Human Resources] 
+tags: [Human Resources] 
 image:
   feature: bg\9.jpg
   credit: WeGraphics
