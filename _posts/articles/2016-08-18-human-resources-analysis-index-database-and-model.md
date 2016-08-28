@@ -55,11 +55,13 @@ share: true
 
 【定义】是指报告期内平均每天拥有的劳动力人数，属序时平均数指标。
 
-【公式】月平均人数=报告期内每天实有人数之和÷报告期月日数 或 :=(月初人数+月末人数)÷2
+【公式】
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;季平均人数=(季内各月平均人数之和)÷3
+月平均人数=报告期内每天实有人数之和÷报告期月日数 或 :=(月初人数+月末人数)÷2
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年平均人数=(年内各月平均人数之和)÷12 或 :=(年内各季平均人数之和)÷4
+季平均人数=(季内各月平均人数之和)÷3
+
+&nbsp;年平均人数=(年内各月平均人数之和)÷12 或 :=(年内各季平均人数之和)÷4
 
 【收集渠道】人力资源部员工花名册
 
