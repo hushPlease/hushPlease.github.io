@@ -9,9 +9,27 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-05 22:31:59
-modified: 2016-09-05 22:57:34
+modified: 2016-09-06 14:51:58
 share: true
 ---
+
+[Steam Group: Indie Games Fans - iGF(CN)](http://steamcommunity.com/groups/indiegamesfans)
+
+小伙伴们大家好，这里是steam组iGF(CN)官方QQ群，群号：582777738 名称：欢乐开黑！
+
+请认准官方QQ群唯一辨识头像：Sbimers Happy Togayther
+
+本群用于大家交流游戏相关的话题，以及好友之间的联机邀请，一起欢乐开黑才是最愉快滴~
+
+然而发展到现在，已经失去控制的成为了一个以摔跤哲学、大商炫富和司机飙车等诸如此类的各种与游戏无关的dalao集中营~
+
+当然，群内潜伏的dalao们能够完美的回答你所有关于steam的问题的哦，别问我为什么，就是这么自信~
+
+希望小伙伴们在交流的时候能够保持良好的心态，顾及他人的感受，并且真诚的分享和讨论话题~
+
+最后，再次感谢大家对iGF(CN)的支持和青睐，谢谢~
+
+下面是群成员的steam个人主页，方便大家联系、骚扰、留言、加好友、求联机啦啦啦啦啦啦啦啦啦
 
 [Maxwell](http://steamcommunity.com/profiles/76561198161052578/)
 
@@ -112,3 +130,9 @@ share: true
 [WildestDream33](http://steamcommunity.com/profiles/76561198322961924)
 
 [逢世](http://steamcommunity.com/profiles/76561198096478106)
+
+[blackhand](http://steamcommunity.com/profiles/76561198059646331)
+
+[林西](http://steamcommunity.com/profiles/76561198255618364)
+
+[PorkmanC](http://steamcommunity.com/profiles/76561198080230645)
