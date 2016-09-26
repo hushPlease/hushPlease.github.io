@@ -19,8 +19,8 @@ share: true
 biennial a.两年一次的  
 lateral a.侧面的，从旁边的  
 blandishment n.奉承；劝诱  
-boor n.粗人
-altercation n.争执
+boor n.粗人  
+altercation n.争执  
 infringement n.侵犯；违反
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
