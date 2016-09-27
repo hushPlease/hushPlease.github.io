@@ -30,7 +30,20 @@ catalyze vt.促使；激励
 ceremonial a.正式的；仪式的  
 chagrin n.懊恼；失望  
 chaste a.贞洁的；(思想、言论)朴素的  
-circumvent vt.用计谋战胜，规避
+circumvent vt.用计谋战胜，规避  
+clandestine a.秘密的  
+clergy n.牧师  
+cajole vt.以甜言蜜语哄骗；勾引  
+communal a.公共的；公社的  
+complicity n.共谋；同谋，共犯  
+concomitant a.伴随的  
+condiment n.调味品  
+condign a.适当的，罪有应得的  
+congenial a.(因性情、志趣等相近而)彼此合得来的；适意的  
+congenital a.先天的，天生的  
+conglomerate  v.聚结 n.企业集团  
+connoisseur n.鉴赏家，行家  
+consortium n.联盟；(国际)财团
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
 
@@ -42,3 +55,6 @@ circumvent vt.用计谋战胜，规避
 
 6、A terrible illness circumscribed him to bed for a year. 一种严重的疾病让他卧床一年。
 
+7、The prosecutor presented a well-reasoned case, but the defense attorney's compelling arguments for leniency won over the jury. 公诉人指控的案件陈述合理，但辩方律师争取宽大处理的理由非常令人信服，成功地说服了陪审团。
+
+8、
