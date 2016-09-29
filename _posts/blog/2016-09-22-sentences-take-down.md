@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-09-28 22:41:47
+modified: 2016-09-29 12:06:37
 share: true
 ---
 
@@ -55,7 +55,26 @@ crooked a.不诚实的，欺诈的；弯曲的，蜿蜒的
 incumbent a.现任的；依靠的；负有职责的 n.在职者；现任者  
 curator n.(博物馆等的)馆长  
 malediction n.坏话；诅咒  
-
+debrief v.听取汇报  
+defecate vi.排粪；通大便  
+defer vi.遵从，听从 vt.延期  
+deft a.灵巧的，熟练的  
+desiccate vt.使干；干贮 vi.变干  
+deign vi.屈尊  
+delectable a.美味的；令人愉快的  
+admonish vt.训诫，警告  
+denomination n.宗教组织；(货币的)面额，单位  
+deplete vt.耗尽，使衰竭  
+depredation n.劫掠，蹂躏  
+despoil vt.夺取，掠夺  
+deter vt.阻碍，制止，使踌躇  
+detergent n.清洁剂，洗涤剂  
+detest vt.深恶，憎恶  
+pernicious a.有害的，恶劣的  
+detritus n.岩屑，碎石  
+deleterious a.有害的，造成伤害的  
+pernicious a.有害的，恶劣的  
+diction n.措辞，用语
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
 
@@ -75,4 +94,8 @@ malediction n.坏话；诅咒
 
 10、Nothing could cushion the shock of my friend's death. 什么都不能减轻朋友的去世给我的打击。
 
-11、
+11、After the party there was the daunting job of tidying up. 聚会结束之后，整理屋子的活让人却步。
+
+12、The storm tore down trees, damaged houses and littered the village with debris. 暴风吹倒了树木，摧毁了房屋，村里到处散落着碎片。
+
+13、
