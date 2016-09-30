@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-09-29 12:06:37
+modified: 2016-09-30 21:33:45
 share: true
 ---
 
@@ -74,7 +74,12 @@ pernicious a.有害的，恶劣的
 detritus n.岩屑，碎石  
 deleterious a.有害的，造成伤害的  
 pernicious a.有害的，恶劣的  
-diction n.措辞，用语
+diction n.措辞，用语  
+disciple n.门徒，弟子，追随者  
+discourse n.讲道，演讲  
+dissertation n.论文  
+pertinacious a.坚持不放的，顽执的  
+
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
 
@@ -98,4 +103,12 @@ diction n.措辞，用语
 
 12、The storm tore down trees, damaged houses and littered the village with debris. 暴风吹倒了树木，摧毁了房屋，村里到处散落着碎片。
 
-13、
+13、Mary is completely disinterested in the matter and can judge fairly. 在这件事上，玛丽是绝对公正的，可以公平地做出判断。
+
+14、The dogmatic dictator would brook no diversity of opinions. 那个固执己见的独裁者不能容忍不同意见。
+
+15、Microwave ovens and automatic dishwashers have emancipated modern homemakers from much of the household drudgery. 微波炉和自动洗碗机将现代的家庭主妇们从辛苦的家务劳动中解放了。
+
+16、Their little cottage was dwarfed by a big building in the neighborhood. 他们的小平房跟旁边的大楼一比，显得特别矮小。
+
+17、
