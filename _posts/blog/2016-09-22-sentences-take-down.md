@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-09-30 21:33:45
+modified: 2016-10-03 23:32:01
 share: true
 ---
 
@@ -79,6 +79,13 @@ disciple n.门徒，弟子，追随者
 discourse n.讲道，演讲  
 dissertation n.论文  
 pertinacious a.坚持不放的，顽执的  
+edify vt.启迪，陶冶  
+terse a.简洁的；精练的；扼要的  
+eminent a.著名的，显著的  
+encroach vi.侵占，蚕食  
+entrenched a.确立的，不容易改的  
+covetous a.贪婪的；贪求的；渴望的  
+eviscerate vt.取出内脏；除去主要部分  
 
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
@@ -111,4 +118,12 @@ pertinacious a.坚持不放的，顽执的
 
 16、Their little cottage was dwarfed by a big building in the neighborhood. 他们的小平房跟旁边的大楼一比，显得特别矮小。
 
-17、
+17、An elliptical remark baffles because it is not perfectly clear. 晦涩的言辞让人困惑，因为它不够清楚。  
+
+18、The green scenery and the blue dresses of the dancers made a very effective ensemble. 绿色的布景和舞蹈演员们蓝色的服装，形成了一种令人印象深刻的总体效果。
+
+19、Democracy failed in the country for several reasons, including entanglement with wars and underdevelopment. 民主在这个国家并未成功，原因有许多，其中包括受到战争和发展滞后的牵连。
+
+20、Fashions are by nature fickle amd ephemeral. 时尚从本质上而言是易变的和短暂的。
+
+21、
