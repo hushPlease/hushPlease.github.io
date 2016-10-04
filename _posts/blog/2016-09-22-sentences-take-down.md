@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-04 20:00:19
+modified: 2016-10-04 23:27:16
 share: true
 ---
 
@@ -98,6 +98,11 @@ petrifaction n.石化；化石
 fervor n.热情，热烈  
 flair n.才能，本领  
 knack n.诀窍；本领  
+ostentatious a.招摇的；卖弄的；夸耀的；铺张的；惹人注目的  
+foment vt.煽动，助长  
+defray vt.支付，支出  
+frivol vt.糟蹋，浪费 vi.浪费日子  
+gallant a.(对女子)殷勤的；勇敢的，英勇的  
 
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
@@ -144,4 +149,12 @@ knack n.诀窍；本领
 
 23、The finesse and adroitness of the surgeon impressed the observers in the operating room. 那名外科医生的灵巧与熟练令手术室内的观察人员印象深刻。
 
-24、
+24、Modern styles of architecture have discarded the flamboyant trimming on buildings and emphasize simplicity of line. 当代建筑风格放弃了华丽的建筑装饰，而强调线条的简洁。
+
+25、The bad weather may put your travel plans in a state of flux. 糟糕的天气可能会让你的旅行计划不断改变。
+
+26、Hitler was an ardent foe of global peace. 希特勒是全球和平不共戴天的敌人。
+
+27、After not seeing or contacting each other for ten years, their bumping into each other in the street was fortuitous. 他们有十年没见过面了，也没有任何联系，因此在大街上相遇纯属偶然。
+
+28、
