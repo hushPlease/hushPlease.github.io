@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-03 23:32:01
+modified: 2016-10-04 20:00:19
 share: true
 ---
 
@@ -86,6 +86,18 @@ encroach vi.侵占，蚕食
 entrenched a.确立的，不容易改的  
 covetous a.贪婪的；贪求的；渴望的  
 eviscerate vt.取出内脏；除去主要部分  
+exacting a.苛求的，要求严格的  
+exhort v.劝诫，忠告  
+exhilarating a.爽快的，使人愉快的  
+exorbitant a.(指价格、索价等)过高的，过分的  
+expressly ad.特意地，专门  
+extol vt.赞美  
+eulogize vt.称赞，颂扬  
+exuberant a.充满活力的；(植物)繁茂的  
+petrifaction n.石化；化石  
+fervor n.热情，热烈  
+flair n.才能，本领  
+knack n.诀窍；本领  
 
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
@@ -126,4 +138,10 @@ eviscerate vt.取出内脏；除去主要部分
 
 20、Fashions are by nature fickle amd ephemeral. 时尚从本质上而言是易变的和短暂的。
 
-21、
+21、Negotiations are taking place aimed at ending the 10-year-old feud between the two countries. 为了结束两国之间长达十年的不和，目前两国正在进行谈判。
+
+22、The king was reduced to a figurehead after the revolution. 革命胜利之后，国王变成了有名无实的领袖。
+
+23、The finesse and adroitness of the surgeon impressed the observers in the operating room. 那名外科医生的灵巧与熟练令手术室内的观察人员印象深刻。
+
+24、
