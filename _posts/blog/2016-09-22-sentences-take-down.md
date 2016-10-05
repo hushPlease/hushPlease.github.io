@@ -10,11 +10,9 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-04 23:27:16
+modified: 2016-10-05 13:48:23
 share: true
 ---
-
-1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
 
 biennial a.两年一次的  
 lateral a.侧面的，从旁边的  
@@ -103,7 +101,16 @@ foment vt.煽动，助长
 defray vt.支付，支出  
 frivol vt.糟蹋，浪费 vi.浪费日子  
 gallant a.(对女子)殷勤的；勇敢的，英勇的  
+galvanize vt.通电流于；刺激，激起  
+garble vt.断章取义，曲解  
+gibe v.嘲弄，讥笑  
+gush vi.喷涌，涌流  
+gulp n.&v. 吞；吞咽  
+foolhardy a.有勇无谋的  
+reticent a.沉默的；有保留的；谨慎的  
 
+
+1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
 
 2、Billie Holiday's reputation as a great jazz-blues singer rests on her ability to give emotional depth to her songs. 比利·哈乐黛之所以被公认为是一个伟大的蓝调爵士歌手，是因为她能够让她的歌声充满深情。
 
@@ -157,4 +164,6 @@ gallant a.(对女子)殷勤的；勇敢的，英勇的
 
 27、After not seeing or contacting each other for ten years, their bumping into each other in the street was fortuitous. 他们有十年没见过面了，也没有任何联系，因此在大街上相遇纯属偶然。
 
-28、
+28、Health insurance acts as a hedge against unexpected medical expenses. 健康保险可以作为对冲意外医疗费用的措施。
+
+29、
