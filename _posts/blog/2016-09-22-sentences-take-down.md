@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-05 13:48:23
+modified: 2016-10-06 14:27:58
 share: true
 ---
 
@@ -108,7 +108,11 @@ gush vi.喷涌，涌流
 gulp n.&v. 吞；吞咽  
 foolhardy a.有勇无谋的  
 reticent a.沉默的；有保留的；谨慎的  
-
+miscellaneous a.混杂的；各种各样的；多方面的，多才多艺的  
+hinterland n.穷乡僻壤；内地，腹地  
+homogenize vt.使均匀  
+humpbacked a.驼背的  
+impend vi.逼近，即将发生  
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
 
@@ -166,4 +170,10 @@ reticent a.沉默的；有保留的；谨慎的
 
 28、Health insurance acts as a hedge against unexpected medical expenses. 健康保险可以作为对冲意外医疗费用的措施。
 
-29、
+29、The film industry as a whole is now less than a third as big as it was in its heyday in the early 1990's. 目前整个电影行业的规模不足上世纪90年代初其全盛时期的三分之一。
+
+30、Dallas, Texas has become a national hub of banking, fashion, trade and transportation. 德克萨斯州的达拉斯市已经成为美国银行业、时尚业、贸易与交通的中心。
+
+31、An ear of corn has a husk. 玉米穗有苞叶。
+
+32、
