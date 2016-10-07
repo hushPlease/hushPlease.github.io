@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-06 14:27:58
+modified: 2016-10-07 15:51:11
 share: true
 ---
 
@@ -113,6 +113,18 @@ hinterland n.穷乡僻壤；内地，腹地
 homogenize vt.使均匀  
 humpbacked a.驼背的  
 impend vi.逼近，即将发生  
+impersonate vt.模仿，扮演  
+imposing a.气势雄伟的，威严的  
+impromptu a.即席的，即兴的  
+improvise vt.即席创作，即兴表演  
+extemporize v.即兴演奏或演说；临时凑合；当场做成  
+improvident a.浪费的；无远见的；无先见之明的  
+incessant a.不停的，连续的  
+indiscriminate a.不加选择的  
+inflexible a.坚定的  
+subterfuge n.托词；接口；诡计  
+interlocking a.连锁的，关联的  
+
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
 
@@ -176,4 +188,14 @@ impend vi.逼近，即将发生
 
 31、An ear of corn has a husk. 玉米穗有苞叶。
 
-32、
+32、This guy is suspected of implication in a number of robberies. 那个家伙被怀疑参与了数起抢劫。
+
+33、A fable is usually a short tale featuring animals or inanimate objects that can talk and think like humans. 寓言通常是一则短小的故事，其中的主角是能够像人一样说话和思考的动物或没有生命的物体。
+
+34、The waitress was incensed when her picky customer refused to tip her. 当那位挑剔的顾客拒绝付小费的时候，那名女服务员被激怒了。
+
+35、I've no inclination to follow my mother into accountancy. 我不愿意接我妈妈的班，成为一名会计师。
+
+36、Colloquialisms, expressions which are characteristic of informal spoken language, are often considered inappropriate for more formal written language. 口语，即以非正式的口头语言为特点的表达，通常被认为不适合用于更加正式的书面文字中。
+
+37、
