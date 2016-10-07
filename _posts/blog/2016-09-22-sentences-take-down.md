@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-07 15:51:11
+modified: 2016-10-08 00:11:46
 share: true
 ---
 
@@ -124,6 +124,18 @@ indiscriminate a.不加选择的
 inflexible a.坚定的  
 subterfuge n.托词；接口；诡计  
 interlocking a.连锁的，关联的  
+intrepid a.勇敢的  
+irreparable a.不能挽回的  
+irrevocable a.不可改变的；不能取消的；不能挽回的  
+jubilant a.欢腾的，喜气洋洋的  
+purview n.范围，权限；视界；条款  
+labyrinth n.迷宫；错综复杂之事件  
+lament vt.为……悲痛，痛惜  
+deplore vt.谴责；悲悼；哀叹；对……深感遗憾  
+lark n.鸣禽；云雀，百灵鸟 vi.嬉戏，嬉耍  
+laureate a.金色的；灿烂的  
+meager a.贫乏的；瘦的 n.兆  
+despondent a.沮丧的；失望的  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -198,4 +210,10 @@ interlocking a.连锁的，关联的
 
 36、Colloquialisms, expressions which are characteristic of informal spoken language, are often considered inappropriate for more formal written language. 口语，即以非正式的口头语言为特点的表达，通常被认为不适合用于更加正式的书面文字中。
 
-37、
+37、The freshly baked chocolate cake sitting on the table looked very inviting to the hungry boys. 桌子上那个新鲜烘焙的巧克力蛋糕对饥饿的男孩们来说，非常具有吸引力。
+
+38、Don't rest on your laurels: follow up your success and start looking for new markets now. 不要不思进取：借着成功的东风，马上开始寻找新市场。
+
+39、She gives lavish parties with wonderful food, flowers, and music. 她经常举办奢华的聚会，聚会上有精美的食物、鲜花和音乐。
+
+40、
