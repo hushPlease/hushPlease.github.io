@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-08 13:10:17
+modified: 2016-10-09 00:59:34
 share: true
 ---
 
@@ -149,6 +149,20 @@ makeshift n.权宜之计
 malfunction n.故障，失灵  
 defunct a.死亡的；失效的  
 perfunctory a.草率的，马马虎虎的  
+mannerism n.特殊习惯，怪癖  
+manteau n.披风，斗篷  
+maverick a.独行的；不遵守传统的 n.持异议者，自行其是者  
+euphonic a.悦耳的，语调好的；音调上的  
+mellifluous a.如蜜般的；流畅的  
+dulcet a.美妙的，悦耳的；怡人的  
+membrane n.膜，薄膜  
+mesmerize vt.施催眠术；使入迷，迷住  
+scrupulous a.细心的；小心谨慎的；一丝不苟的  
+abstemious a.节约的，节省的；有节制的  
+mischief n.恶作剧，淘气  
+castigate vt.严惩；申斥  
+instigate vt.怂恿  
+mold vt.塑造 n.模子，铸型；霉菌  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -235,4 +249,10 @@ perfunctory a.草率的，马马虎虎的
 
 42、After the economic crisis, signs of a recession loom in the distance. 经济危机之后，衰退的迹象逐渐显现。
 
-43、
+43、After the blizzard, a mantle of snow covered the fields. 暴风雪过后，大地盖上了一层雪。
+
+44、It is incongruous to find an abstemious person in a milieu of affluence. 一个节俭的人处在一个富裕的社会环境里，是非常不协调的。
+
+45、Mimicry is a biological phenomenon characterized by the superficial resemblance of two or more organisms that are not closely related. 拟态是一种生物学现象，其特点是没有密切关系的两个或多个生物体外表相似。
+
+46、
