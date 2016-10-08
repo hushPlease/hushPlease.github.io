@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-08 00:11:46
+modified: 2016-10-08 13:10:17
 share: true
 ---
 
@@ -136,6 +136,19 @@ lark n.鸣禽；云雀，百灵鸟 vi.嬉戏，嬉耍
 laureate a.金色的；灿烂的  
 meager a.贫乏的；瘦的 n.兆  
 despondent a.沮丧的；失望的  
+legume n.豆类，豆荚  
+languid a.倦怠的；呆滞的；软弱无力的  
+denigrate vt.抹黑；毁誉  
+libellous a.诽谤的，用言语中伤他人的  
+remunerative a.有利可图的；有报酬的；合算的  
+lull vt.使平静；使安静  
+lustrous a.有光泽的；光辉的  
+lyrically ad.抒情地  
+maize n.玉米  
+makeshift n.权宜之计  
+malfunction n.故障，失灵  
+defunct a.死亡的；失效的  
+perfunctory a.草率的，马马虎虎的  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -216,4 +229,10 @@ despondent a.沮丧的；失望的
 
 39、She gives lavish parties with wonderful food, flowers, and music. 她经常举办奢华的聚会，聚会上有精美的食物、鲜花和音乐。
 
-40、
+40、Lawyers are employed to represent newspaper publishers when they are sued for libel. 报纸出版商在被控诽谤后，便聘请了多位代理律师。
+
+41、The conservative group lobbied to outlaw the use of certain drugs. 保守团体通过游说议员宣布使用某些药物不合法。
+
+42、After the economic crisis, signs of a recession loom in the distance. 经济危机之后，衰退的迹象逐渐显现。
+
+43、
