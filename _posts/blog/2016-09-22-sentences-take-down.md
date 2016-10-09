@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-09 12:58:42
+modified: 2016-10-09 22:42:57
 share: true
 ---
 
@@ -176,6 +176,17 @@ diurnal a.白天的；每日的 n.日记账；日报，日刊
 nomadic a.游牧的，流浪的  
 tyro n.新手，生手；初学者  
 onerous a.繁重的；麻烦的；负有义务的；负有法律责任的  
+obliging a.亲切的，有礼貌的  
+oblique a.倾斜的；不坦率的  
+olfactory a.嗅觉的  
+onset n.(病)发作；开始  
+ooze n.软泥 v.渗出，泄漏  
+orchard n.果园  
+orchid n.兰花  
+outlying a.边远的，偏僻的  
+outright ad.立刻地，全部地  
+overcast a.阴天的，阴暗的  
+reticent a.沉默的；有保留的；谨慎的  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -276,4 +287,6 @@ onerous a.繁重的；麻烦的；负有义务的；负有法律责任的
 
 49、The nursery had many species of plants. 苗圃中有许多种植物。
 
-50、
+50、Fear of falling victim to some dreadful disease can become such an obsession that it actually drives a person into a nervous breakdown. 对于染上某些严重疾病的担忧可能成为一种强迫症，实际上会让一个人精神崩溃。
+
+51、
