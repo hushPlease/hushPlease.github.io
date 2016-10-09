@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-09 00:59:34
+modified: 2016-10-09 12:58:42
 share: true
 ---
 
@@ -163,6 +163,19 @@ mischief n.恶作剧，淘气
 castigate vt.严惩；申斥  
 instigate vt.怂恿  
 mold vt.塑造 n.模子，铸型；霉菌  
+pecuniary a.金钱的；应罚款的  
+monograph n.专著，专论  
+monologue n.独白，独角戏  
+motif n.(作品的)主题，主旨  
+motley a.杂色的，五颜六色的  
+mundane a.平常的，普通的；世俗的，平凡的  
+mural n.壁画，壁饰  
+haughty a.傲慢的，自大的  
+recess vi.休息；休假 vt.使凹进；把……放在隐蔽处 n.休息；休会；凹处  
+diurnal a.白天的；每日的 n.日记账；日报，日刊  
+nomadic a.游牧的，流浪的  
+tyro n.新手，生手；初学者  
+onerous a.繁重的；麻烦的；负有义务的；负有法律责任的  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -255,4 +268,12 @@ mold vt.塑造 n.模子，铸型；霉菌
 
 45、Mimicry is a biological phenomenon characterized by the superficial resemblance of two or more organisms that are not closely related. 拟态是一种生物学现象，其特点是没有密切关系的两个或多个生物体外表相似。
 
-46、
+46、The larva silkworm feeds on mulberry leaves. 蚕的幼虫以桑叶为食。
+
+47、A country sky on a clear night is filled with a myriad of stars. 在晴朗的夜晚，乡村的夜空中缀满了无数的星辰。
+
+48、After trying several career paths, he finally found his niche in engineering. 尝试过多种职业之后，他最终在工程学行业找到了适合自己的位置。
+
+49、The nursery had many species of plants. 苗圃中有许多种植物。
+
+50、
