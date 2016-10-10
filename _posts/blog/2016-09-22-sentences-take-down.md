@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-09 22:42:57
+modified: 2016-10-10 22:06:51
 share: true
 ---
 
@@ -187,6 +187,27 @@ outlying a.边远的，偏僻的
 outright ad.立刻地，全部地  
 overcast a.阴天的，阴暗的  
 reticent a.沉默的；有保留的；谨慎的  
+palate n.上颚；味觉  
+metaphrase n.&vt. 直译  
+paraphrase vt.将……释义，改写 n.释义，意译  
+parasite n.寄生虫  
+pastel a.柔和的  
+patriarch n.家长，族长  
+patrician n.贵族 a.贵族的  
+patronizing a.摆出恩赐态度的，要人领情的  
+pauper n.贫民，乞丐  
+pedagogy n.教育学，教学法  
+penchant n.爱好，嗜好  
+predilection n.爱好，偏袒  
+pendant n.垂饰；吊坠；下垂物  
+penetrating a.思想敏锐的，有洞察力的；(指声音)响亮的，尖锐的  
+pungent a.辛辣的；刺激性的；苦痛的；尖刻的  
+percussion n.打击乐器  
+perennial a.四季不断的，终年的；(植物)多年生的  
+peripatetic a.漫游的；(因工作而)流动的  
+persecute vt.迫害  
+picturesque a.似画的，美丽的  
+repugnant a.讨厌的；矛盾的；敌对的  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -289,4 +310,8 @@ reticent a.沉默的；有保留的；谨慎的
 
 50、Fear of falling victim to some dreadful disease can become such an obsession that it actually drives a person into a nervous breakdown. 对于染上某些严重疾病的担忧可能成为一种强迫症，实际上会让一个人精神崩溃。
 
-51、
+51、Television plays a paramount role in molding public opinion. 电视在左右公众舆论方面具有决定性作用。
+
+52、They closed the restaurant because the paucity of customers made it financially unfeasible to operate. 他们关闭了那家餐厅，因为缺少顾客使其在财务上无法继续运营。
+
+53、
