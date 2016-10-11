@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-10 22:06:51
+modified: 2016-10-11 22:26:24
 share: true
 ---
 
@@ -71,7 +71,6 @@ detest vt.深恶，憎恶
 pernicious a.有害的，恶劣的  
 detritus n.岩屑，碎石  
 deleterious a.有害的，造成伤害的  
-pernicious a.有害的，恶劣的  
 diction n.措辞，用语  
 disciple n.门徒，弟子，追随者  
 discourse n.讲道，演讲  
@@ -208,6 +207,28 @@ peripatetic a.漫游的；(因工作而)流动的
 persecute vt.迫害  
 picturesque a.似画的，美丽的  
 repugnant a.讨厌的；矛盾的；敌对的  
+pigment n.色素，颜料  
+pique vt.激起，引起(好奇等)；激怒  
+piquant a.开胃的，辛辣的  
+clique n.私党，小圈子，派系  
+pitch n.(音乐的)音调高低 v.投掷  
+pivot n.枢轴；中心点，重点  
+pivotal a.枢轴的；关键的  
+plagiarize v.剽窃，抄袭  
+acquiesce vi.默许；勉强同意  
+trite a.(言语、想法等)老生常谈的，陈腐的，老一套的  
+platitudinous a.平凡的，陈腐的  
+playwright n.剧作家  
+malleable a.可锻造的，有延展性的；韧性的  
+lithe a.轻盈柔软的，易弯曲的  
+plight n.(恶劣的)情势，困境  
+plow n.犁 vt.耕作  
+pollen n.花粉  
+pneumonia n.肺炎  
+postscript n.附言，后记  
+posterity n.子孙，后裔  
+potent a.强有力的；有效的  
+poultry n.家禽；禽肉  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -314,4 +335,10 @@ repugnant a.讨厌的；矛盾的；敌对的
 
 52、They closed the restaurant because the paucity of customers made it financially unfeasible to operate. 他们关闭了那家餐厅，因为缺少顾客使其在财务上无法继续运营。
 
-53、
+53、Plagiarism is the act of identically copying the written work of someone else and taking credit for it. 剽窃是照搬他人的书面作品，并将其据为己有的行为。
+
+54、"Believe in yourself" is a platitude many Chinese students are fond of quoting. “相信自己”是许多中国学生喜欢引用的一句陈词滥调。
+
+55、Charles' reputation as a humanitarian suffered a posthumous blow when his widow revealed that he had beaten her every day of their marriage. 查尔斯作为人道主义者所积累的声誉，在其死后却遭到抨击，因为他的遗孀揭露，自从他们结婚之后，他每天都打她。
+
+56、
