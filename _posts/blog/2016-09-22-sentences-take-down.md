@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-14 19:22:26
+modified: 2016-10-14 21:30:57
 share: true
 ---
 
@@ -234,6 +234,7 @@ prerequisite n.先决条件 a.首要必备的
 prequisite n.额外补贴  
 pretension n.要求；自命；自称  
 prevaricate vi.支吾，搪塞  
+primate n.灵长目动物  
 primordial a.原始的，最初的  
 pristine a.原始的，未被破坏的  
 prissy a.谨小慎微的  
@@ -247,6 +248,27 @@ pulp n.果肉
 quail n.鹌鹑 vi.畏惧，颤抖  
 boutique n.精品店；专卖流行衣服的小商店  
 quarantine n.&v.检疫，隔离  
+rampancy a.蔓生的，猖獗的  
+rampage vi.暴跳；横冲直撞  
+ratify vt.批准  
+rancher n.大农场经营者；牧场工人  
+rattlesnake n.响尾蛇  
+raucous a.沙哑的；喧嚣的  
+ravine n.沟壑，峡谷  
+ravenous a.贪婪的  
+boisterous a.喧闹的；狂暴的；猛烈的  
+recoil vi.畏缩；弹回，反冲  
+recollection n.回忆，记忆  
+recount vt.叙述，描写  
+rehabilitate vt.使(身体)康复；使复职；翻修  
+regurgitate v.(使)涌回；(使)反刍  
+remunerate vt.给……报酬，补偿  
+rejuvenate v.(使)返老还童；(使)恢复活力  
+rejuvenescent a.返老还童的，回春的  
+rendition n.表演，演唱  
+repent v.后悔；忏悔，悔悟  
+repertory n.全部剧目；仓库  
+redress vt.改正，修正  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
