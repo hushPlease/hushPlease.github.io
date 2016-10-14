@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-11 22:26:24
+modified: 2016-10-14 19:22:26
 share: true
 ---
 
@@ -229,6 +229,24 @@ postscript n.附言，后记
 posterity n.子孙，后裔  
 potent a.强有力的；有效的  
 poultry n.家禽；禽肉  
+preponderate v.(在重量、数量、力量等上)胜过，超过  
+prerequisite n.先决条件 a.首要必备的  
+prequisite n.额外补贴  
+pretension n.要求；自命；自称  
+prevaricate vi.支吾，搪塞  
+primordial a.原始的，最初的  
+pristine a.原始的，未被破坏的  
+prissy a.谨小慎微的  
+prod vt.戳，刺；刺激，激励  
+prodigal a.浪费的，挥霍的  
+prod vt.戳，刺；刺激，激励  
+prodigious a.巨大的，惊人的  
+prolific a.多产的，多结果的  
+protagonist n.(戏剧、故事、小说中的)主角  
+pulp n.果肉  
+quail n.鹌鹑 vi.畏惧，颤抖  
+boutique n.精品店；专卖流行衣服的小商店  
+quarantine n.&v.检疫，隔离  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -341,4 +359,5 @@ poultry n.家禽；禽肉
 
 55、Charles' reputation as a humanitarian suffered a posthumous blow when his widow revealed that he had beaten her every day of their marriage. 查尔斯作为人道主义者所积累的声誉，在其死后却遭到抨击，因为他的遗孀揭露，自从他们结婚之后，他每天都打她。
 
-56、
+56、The preponderance of evidence led to the jury's guilty verdict. 证据优势让陪审团做出了有罪判决。
+
