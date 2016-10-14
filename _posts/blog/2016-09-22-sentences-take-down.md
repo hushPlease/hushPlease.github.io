@@ -361,3 +361,4 @@ quarantine n.&v.检疫，隔离
 
 56、The preponderance of evidence led to the jury's guilty verdict. 证据优势让陪审团做出了有罪判决。
 
+57、
