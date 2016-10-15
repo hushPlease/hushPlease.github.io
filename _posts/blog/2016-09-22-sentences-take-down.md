@@ -309,6 +309,10 @@ skimp v.节省，节俭；吝啬
 stint vi.紧缩，节省 vt.节省；限制 n.节约；定额，定量  
 malign a.恶意的，恶性的；有害的 vt.诽谤；污蔑；中伤，说坏话  
 shudder n.发抖；战栗；震动 vi.发抖；战栗  
+slipshod a.随便的；马虎的，草率的  
+sloth n.树懒；怠惰，懒惰  
+indolence n.懒散，懒惰；无痛  
+slothful a.迟钝的，懒惰的  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
