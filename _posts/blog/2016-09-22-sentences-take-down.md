@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-14 21:30:57
+modified: 2016-10-15 15:17:09
 share: true
 ---
 
@@ -269,6 +269,24 @@ rendition n.表演，演唱
 repent v.后悔；忏悔，悔悟  
 repertory n.全部剧目；仓库  
 redress vt.改正，修正  
+rabies n.狂犬病，恐水病  
+convulse vt.震动；使抽筋  
+resolution n.分辨率  
+revere vt.尊崇，尊敬  
+venerate vt.崇敬，尊敬  
+venerable a.庄严的，值得尊敬的；珍贵的  
+rife a.流行的，普通的  
+roost n.栖息处，鸟巢 v.(使)栖息  
+perch n.鲈鱼；高位；栖木；杆 vt.栖息；就位；位于；使坐落于 vi.栖息；就位；位于  
+inchoate a.初步的，未形成的  
+erudite a.深奥的  
+incipient a.初始的  
+bucolic a.田园的，乡村的  
+rusticate v.(使)定居乡村；过乡村生活  
+salient a.显著的，突出的  
+sanctimonious a.假装诚实的，伪装虔诚的  
+hypocritical a.虚伪的；伪善的  
+sap n.树液，汁液 vt.使衰竭  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -383,4 +401,6 @@ redress vt.改正，修正
 
 56、The preponderance of evidence led to the jury's guilty verdict. 证据优势让陪审团做出了有罪判决。
 
-57、
+57、The family argument created a rift between the father and son. 家庭纠纷使父亲与儿子产生了不和。  
+
+58、
