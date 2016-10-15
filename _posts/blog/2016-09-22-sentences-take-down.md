@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-15 15:17:09
+modified: 2016-10-15 20:55:47
 share: true
 ---
 
@@ -287,6 +287,28 @@ salient a.显著的，突出的
 sanctimonious a.假装诚实的，伪装虔诚的  
 hypocritical a.虚伪的；伪善的  
 sap n.树液，汁液 vt.使衰竭  
+scapegoat n.替罪羊，代人受过的人  
+scotch v.镇压，粉碎  
+scavenge v.(动物)以(垃圾、腐肉)为食，(在废弃物中)搜寻(有用之物)  
+scour vt.冲刷，擦掉  
+scruple n.踌躇；顾忌  
+secrete vt.分泌  
+excrete vt.排泄；分泌  
+secretin n.分泌素  
+auricular a.耳的，耳状的  
+sedentary a.(指人或动物)土生的，不移徙的；(指工作)坐着做的(不需运动的)  
+seden n.私家轿车，轿子  
+sensuous a.感官的；给人美感的  
+serum n.浆液，血清  
+scabbard n.鞘；枪套 vt.把……插入鞘中  
+shriek v.尖声叫喊 n.尖叫，尖声  
+shuffle vt.洗牌  
+sidestep v.横跨一步躲闪；回避(困难)  
+sift v.筛，过滤  
+skimp v.节省，节俭；吝啬  
+stint vi.紧缩，节省 vt.节省；限制 n.节约；定额，定量  
+malign a.恶意的，恶性的；有害的 vt.诽谤；污蔑；中伤，说坏话  
+shudder n.发抖；战栗；震动 vi.发抖；战栗  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -403,4 +425,8 @@ sap n.树液，汁液 vt.使衰竭
 
 57、The family argument created a rift between the father and son. 家庭纠纷使父亲与儿子产生了不和。  
 
-58、
+58、A small sect broke off from the main group to practice their own beliefs. 为了他们自己的信仰，一个小的派别从主组织中分裂了出去。
+
+59、The harbor channel must be dredged annually to remove the silt. 必须每年对海港航道进行疏浚，以清除航道中的淤泥。
+
+60、
