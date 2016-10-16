@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-15 20:55:47
+modified: 2016-10-16 18:21:16
 share: true
 ---
 
@@ -313,6 +313,61 @@ slipshod a.随便的；马虎的，草率的
 sloth n.树懒；怠惰，懒惰  
 indolence n.懒散，懒惰；无痛  
 slothful a.迟钝的，懒惰的  
+waggish a.诙谐的  
+smug a.自命不凡的  
+snug a.暖和的，安逸的  
+torpid a.迟缓的，迟钝的；蛰伏的  
+wily a.狡猾的；诡计多端的  
+smother vt.使窒息；熄灭，覆盖  
+snippet n.小片，片段；摘录  
+socialite n.社会名流  
+solder vt.焊接，焊在一起  
+solicitation n.恳求，乞求  
+solicitous a.热切的，挂念的  
+speck n.斑点  
+fleck n.斑点；微粒，小片 vt.使起斑点；使有斑驳  
+spinach n.菠菜  
+spite n.恶意；怨恨  
+malice n.恶意，怨恨；预谋  
+sprawl vi.散乱地延伸；四肢摊开着坐、卧或倒下 n.扩展，蔓延  
+arable a.适于耕种的；可开垦的 n.耕地  
+germinate vi.发芽；生长 vt.使发芽；使生长  
+squash n.南瓜  
+standing a.固定的，常设的 n.身份，名望  
+stanza n.(诗的)节，段  
+staple n.主要产品，日常必需品 a.主要的，常用的  
+starch n.淀粉；淀粉食物  
+stardom n.明星的身份或地位  
+stark a.光秃秃的；荒凉的  
+supple a.柔软的，柔韧的  
+stately a.庄严的，堂皇的  
+steadfast a.坚定的，坚信的  
+sterile a.贫瘠的；不育的；消过毒的  
+stifle vt.使窒息；扼杀，抑制  
+stocky a.(人或动物)矮而结实的，粗壮的  
+stodgy a.(食物)油腻的；枯燥乏味的  
+stockyard n.围栏  
+strand n.(绳、线之)一股  
+tenuous a.纤细的  
+subsist vi.活下去；生存  
+substantiate vt.证实，加强  
+unsubstantiated a.未被证实的  
+subterranean a.地下的，地表下的  
+terrestrial n.陆地  
+laconic a.简洁的，简明的  
+succulent a.多汁的；多水分的 n.肉质植物；多汁植物  
+sumptuous a.奢侈的，华丽的  
+sumptuary a.节省费用的  
+presumptuous a.专横的，傲慢的  
+sump n.污水坑，水坑  
+bumptious a.自负的，傲慢的  
+supercilious a.自大的，傲慢的  
+superfluous a.多余的  
+mellifluous a.优美流畅的  
+superintendent n.主管，负责人  
+superintend v.监督，管理  
+supplant vt.排挤；取代  
+surcharge n.增付的费用，附加费  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -433,4 +488,18 @@ slothful a.迟钝的，懒惰的
 
 59、The harbor channel must be dredged annually to remove the silt. 必须每年对海港航道进行疏浚，以清除航道中的淤泥。
 
-60、
+60、He threw snippets of bread for the birds to eat. 他扔了几片面包，喂给鸟儿吃。
+
+61、The new economic freedom has spawned hundreds of new small businesses. 新经济自由政策催生了数百家新兴的小型企业。
+
+62、The pizza parlor promises a speedy delivery. 那家比萨饼店保证迅速送达。
+
+63、The rival teams carried spite for each other. 两支敌对的队伍对彼此充满了敌意。
+
+64、The standing timber was not cut for environmental reasons. 出于环保原因，没有砍伐活立木。
+
+65、If the contract was framed by a good lawyer, it will stipulate exactly when, where, and how payment is to be made. 如果合同是由一名出色的律师草拟的，里面会明确规定付款的时间、地点和方式。
+
+66、Coral reefs owe their brilliant colors to algae that live in symbiosis with coral polyps. 珊瑚礁绚丽的色彩归因于与珊瑚共生的藻类。
+
+67、
