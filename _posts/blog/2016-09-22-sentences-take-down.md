@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-17 12:53:42
+modified: 2016-10-17 22:57:03
 share: true
 ---
 
@@ -411,7 +411,20 @@ undergird vt.巩固，加强
 underpin vt.巩固，加强  
 annul vt.取消；废除；宣告无效  
 unravel v.弄清楚(秘密)；拆开，解开，松开  
-
+unwieldy a.笨拙的；(因太大、太重、形状奇特等而)不易被移动的，笨重的  
+ungainly a.难看的；笨手笨脚的  
+varnish vt.涂上清漆，粉饰 n.清漆  
+lacquer vt.涂漆；使表面光泽 n.漆；漆器  
+vestige n.痕迹，遗迹，残余  
+viable a.可行的，切实可行的；能活下去的  
+viscous a.黏滞的，黏性的  
+vista n.景色  
+volatile a.挥发性的；可变的，不稳定的  
+vociferate vt.喊叫；大叫 vi.大声呼叫  
+vociferous a.大声的，嘈杂的  
+bane n.毒药；祸害  
+wane vi.减少；衰落  
+yardstick a.码尺；准绳
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
 
@@ -547,4 +560,4 @@ unravel v.弄清楚(秘密)；拆开，解开，松开
 
 67、Noted for his temperate appetite, he seldom gains weight. 他以适度饮食而出名，体重很少会增加。
 
-68、
+68、Light vies with darkness. 光明与黑暗针锋相对。
