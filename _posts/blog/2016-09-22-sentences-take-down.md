@@ -368,6 +368,26 @@ superintendent n.主管，负责人
 superintend v.监督，管理  
 supplant vt.排挤；取代  
 surcharge n.增付的费用，附加费  
+calloused a.变得无情的；变硬的；长了老茧的  
+blot vt.涂污，弄脏 n.污点，污渍；墨水渍  
+attaint n.污点 vt.玷污  
+garrulous a.唠叨的；喋喋不休的；多嘴的  
+glib a.油嘴滑舌的  
+voluble a.健谈的，饶舌的  
+taciturn a.沉默寡言的  
+tally v.(使)符合 n.记录；记账  
+discoloration n.变色；污点  
+tannish a.浅棕色的，淡褐色的  
+temperance n.节制，自制；戒酒，禁酒  
+tempest n.暴风雨  
+tenement n.(穷人)公寓  
+capsize vt.倾覆；弄翻  
+thaw n.解冻 v.(使)解冻，(使)融化  
+tint vt.给……着色；微染 n.色彩  
+torporific a.引起麻痹的，导致迟钝的  
+torrent n.连发，迸发；骤雨；急流，洪流  
+tonic a.滋补的 n.滋补品  
+virulent a.剧毒的；恶毒的  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
@@ -502,4 +522,6 @@ surcharge n.增付的费用，附加费
 
 66、Coral reefs owe their brilliant colors to algae that live in symbiosis with coral polyps. 珊瑚礁绚丽的色彩归因于与珊瑚共生的藻类。
 
-67、
+67、Noted for his temperate appetite, he seldom gains weight. 他以适度饮食而出名，体重很少会增加。
+
+68、
