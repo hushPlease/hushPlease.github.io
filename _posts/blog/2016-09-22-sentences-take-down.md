@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/
 date: 2016-09-22 23:22:39
-modified: 2016-10-16 18:21:16
+modified: 2016-10-17 12:53:42
 share: true
 ---
 
@@ -388,6 +388,29 @@ torporific a.引起麻痹的，导致迟钝的
 torrent n.连发，迸发；骤雨；急流，洪流  
 tonic a.滋补的 n.滋补品  
 virulent a.剧毒的；恶毒的  
+tread v.踩踏；蹂躏；行走  
+serene vt.使平静 n.平静；晴朗 a.平静的；安详的；清澈的；晴朗的  
+lucent a.明亮的；透明的  
+lucid a.明晰的；清晰的  
+pellucid a.透明的，清澈的  
+diaphanous a.(布)半透明的；精致的  
+insidious a.阴险的，暗中为害的  
+perfidious a.背信弃义的  
+tributary a.辅助的，支流的 n.支流  
+trickle vi.滴；流出  
+tryst n.约会，幽会  
+turnpike n.公路，收费高速公路  
+twine v.搓；编织；(使)缠绕  
+intertwine v.缠绕  
+magnate n.巨头；大资本家；要人；富豪  
+domineer vi.跋扈；作威作福 vt.盛气凌人  
+unbridled a.放纵的，无约束的  
+underscore vt.画线于……下；强调  
+underbred a.没教养的  
+undergird vt.巩固，加强  
+underpin vt.巩固，加强  
+annul vt.取消；废除；宣告无效  
+unravel v.弄清楚(秘密)；拆开，解开，松开  
 
 
 1、We went to Hawaii to enjoy the amenity of a warm climate. 我们去夏威夷享受那里温暖宜人的气候。
