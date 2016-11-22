@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Hush Please
-  avatar: bio-photo-3.jpg
+  avatar: bio-photo-5.jpg
   email: hush@xianyu.io
   disqus-shortname: hushPlease
   twitter: Hush_Please_
